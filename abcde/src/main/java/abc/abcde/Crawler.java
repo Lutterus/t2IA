@@ -68,11 +68,14 @@ public class Crawler {
 
 		for (int i = 8; i < str_array.length - 1; i++) {
 			String[] word = str_array[i].split(" ");
-			
+			System.out.println("nova palavra");
+			for (int j = 0; j < word.length; j++) {
+				System.out.println(word[j]);
+			}
 			if (word.length > 3) {
 				int position = 0;
 				while (word[position].contains("[") == false) {
-					if(word[position].contains("ALT")==false && word[position].contains("xxx")==false) {
+					if(word[position].contentEquals("ALT")==false && word[position].contains("xx")==false) {
 						storageObj.addSplitQuestion(word[position]);
 					}
 					position++;
