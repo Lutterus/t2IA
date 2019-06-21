@@ -1,0 +1,2004 @@
+﻿Como opera o algoritmo Random Forest?
+O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.
+funcionamento
+como,opera,o,algoritmo,Random,Forest,
+[como],[operar],[o],[algoritmo],[Random=Forest],
+ADV,V,DET,N,PROP,
+Qual é o mecanismo de funcionamento do Random Forest?
+O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.
+funcionamento
+qual,é,o,mecanismo,de,funcionamento,de,o,Random,Forest,
+[qual],[ser],[o],[mecanismo],[de],[funcionamento],[de],[o],[Random=Forest],
+DET,V,DET,N,PRP,N,PRP,DET,PROP,
+Quais são os passos executados pelo algoritmo de Floresta Randômica?
+O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.
+funcionamento
+quais,são,os,passos,executados,por,o,algoritmo,de,Floresta,Randômica,
+[qual],[ser],[o],[passo],[executar],[por],[o],[algoritmo],[de],[Floresta=Randômica],
+DET,V,DET,N,V,PRP,DET,N,PRP,PROP,
+Como o Random Forest atua?
+O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.
+funcionamento
+como,o,Random,Forest,atua,
+[como],[o],[Random=Forest],[atuar],
+ADV,DET,PROP,V,
+O que o Floresta Randômica faz?
+O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.
+funcionamento
+o,que,o,Floresta,Randômica,faz,
+[o=que],[o],[Floresta=Randômica],[fazer],
+SPEC,DET,PROP,V,
+Que problema do algoritmo Árvore de Decisão o Random Forest é capaz de superar?
+Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. 
+comparacao
+que,problema,de,o,algoritmo,árvore,de,Decisão,o,Random,Forest,é,capaz,de,superar,
+[que],[problema],[de],[o],[algoritmo],[Árvore=de=Decisão],[o],[Random=Forest],[ser],[capaz],[de],[superar],
+DET,N,PRP,DET,N,PROP,DET,PROP,V,ADJ,PRP,V,
+Há alguma vantagem do algoritmo de Random Forest em comparação com o Decision Tree?
+Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. 
+comparacao
+há,alguma,vantagem,de,o,algoritmo,de,Random,Forest,em,comparação,com,o,Decision,Tree,
+[haver],[algum],[vantagem],[de],[o],[algoritmo],[de],[Random=Forest],[em=comparação],[com],[o],[Decision],[Tree],
+V,DET,N,PRP,DET,N,PRP,PROP,ADV,PRP,DET,PROP,PROP,
+Há alguma diferença relevante nos resultados obtidos pelos algoritmos Floresta Randômica e Árvores de Decisão?
+Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. 
+comparacao
+há,alguma,diferença,relevante,em,os,resultados,obtidos,por,os,algoritmos,Floresta,Randômica,e,árvores,de,Decisão,
+[haver],[algum],[diferença],[relevante],[em],[o],[resultado],[obter],[por],[o],[algoritmo],[Floresta=Randômica],[e],[Árvores=de=Decisão],
+V,DET,N,ADJ,PRP,DET,N,V,PRP,DET,N,PROP,KC,PROP,
+No tocante aos resultados obtidos, em que se diferenciam os algoritmos Floresta Randômica e Árvores de Decisão?
+Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. 
+comparacao
+no,tocante,a,os,resultados,obtidos,em,que,se,diferenciam,os,algoritmos,Floresta,Randômica,e,árvores,de,Decisão,
+[no=tocante=a],[o],[resultado],[obter],[em],[que],[se],[diferenciar],[o],[algoritmo],[Floresta=Randômica],[e],[Árvores=de=Decisão],
+PRP,DET,N,V,PRP,SPEC,PERS,V,DET,N,PROP,KC,PROP,
+No que tange aos resultados obtidos, em que se diferenciam os algoritmos Random Forest e Decision Tree?
+Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. 
+comparacao
+em,o,que,tange,a,os,resultados,obtidos,,,em,que,se,diferenciam,os,algoritmos,Random,Forest,e,Decision,Tree,
+[em],[o=que],[tanger],[a],[o],[resultado],[obter],[,],[em],[que],[se],[diferenciar],[o],[algoritmo],[Random=Forest],[e],[Decision=Tree],
+PRP,SPEC,V,PRP,DET,N,V,PU,PRP,SPEC,PERS,V,DET,N,PROP,KC,PROP,
+Quais são as principais aplicações do Random Forest?
+Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.
+aplicacao
+quais,são,as,principais,aplicações,de,o,Random,Forest,
+[qual],[ser],[o],[principal],[aplicação],[de],[o],[Random=Forest],
+DET,V,DET,ADJ,N,PRP,DET,PROP,
+Que setores utilizam o Random Forest comumente?
+Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.
+aplicacao
+que,setores,utilizam,o,Random,Forest,comumente,
+[que],[setor],[utilizar],[o],[Random=Forest],[comumente],
+DET,N,V,DET,PROP,ADV,
+Random forest é principalmente aplicado em quê?
+Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.
+aplicacao
+Random,forest,é,principalmente,aplicado,em,quê,
+[Random],[forest],[ser],[principalmente],[aplicar],[em],[quê],
+PROP,N,V,ADV,V,PRP,SPEC,
+Onde o Random Forest é normalmente aplicado?
+Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.
+aplicacao
+onde,o,Random,Forest,é,normalmente,aplicado,
+[onde],[o],[Random=Forest],[ser],[normalmente],[aplicar],
+ADV,DET,PROP,V,ADV,V,
+Quais as principais áreas de aplicação de Random Forest?
+Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.
+aplicacao
+quais,as,principais,áreas,de,aplicação,de,Random,Forest,
+[qual],[o],[principal],[área],[de],[aplicação],[de],[Random=Forest],
+DET,DET,ADJ,N,PRP,N,PRP,PROP,
+O que é o algoritmo Random Forest?
+Random Forest é um algoritmo supervisionado de classificação.
+conceito
+o,que,é,o,algoritmo,Random,Forest,
+[o=que],[ser],[o],[algoritmo],[Random=Forest],
+SPEC,V,DET,N,PROP,
+Qual é o conceito do algoritmo Random Forest?
+Random Forest é um algoritmo supervisionado de classificação.
+conceito
+qual,é,o,conceito,de,o,algoritmo,Random,Forest,
+[qual],[ser],[o],[conceito],[de],[o],[algoritmo],[Random=Forest],
+DET,V,DET,N,PRP,DET,N,PROP,
+No que consiste o algoritmo Random Forest?
+Random Forest é um algoritmo supervisionado de classificação.
+conceito
+em,o,que,consiste,o,algoritmo,Random,Forest,
+[em],[o=que],[consistir],[o],[algoritmo],[Random=Forest],
+PRP,SPEC,V,DET,N,PROP,
+Alguém me explica o que é o Random Forest?
+Random Forest é um algoritmo supervisionado de classificação.
+conceito
+alguém,me,explica,o,que,é,o,Random,Forest,
+[alguém],[eu],[explicar],[o=que],[ser],[o],[Random=Forest],
+SPEC,PERS,V,SPEC,V,DET,PROP,
+Algoritmo Random Forest, do que se trata?
+Random Forest é um algoritmo supervisionado de classificação.
+conceito
+algoritmo,Random,Forest,de,o,que,se,trata,
+[algoritmo],[Random=Forest],[de],[o],[que],[se],[tratar],
+N,PROP,PRP,DET,SPEC,PERS,V,
+Para que servem os hiperparâmetros no algoritmo de Random Forest?
+Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.
+hiperparametro
+para,que,servem,os,hiperparâmetros,em,o,algoritmo,de,Random,Forest,
+[para],[que],[servir],[o],[parâmetro],[em],[o],[algoritmo],[de],[Random=Forest],
+PRP,SPEC,V,DET,N,PRP,DET,N,PRP,PROP,
+Qual a importância dos hiperparâmetros no algoritmo de Floresta Aleatória?
+Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.
+hiperparametro
+qual,a,importância,de,os,hiperparâmetros,em,o,algoritmo,de,Floresta,Aleatória,
+[qual],[o],[importância],[de],[o],[parâmetro],[em],[o],[algoritmo],[de],[Floresta=Aleatória],
+DET,DET,N,PRP,DET,N,PRP,DET,N,PRP,PROP,
+Como a configuração dos hiperparâmetros afeta o desempenho do algoritmo Random Forest?
+Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.
+hiperparametro
+como,a,configuração,de,os,hiperparâmetros,afeta,o,desempenho,de,o,algoritmo,Random,Forest,
+[como],[o],[configuração],[de],[o],[parâmetro],[afetar],[o],[desempenho],[de],[o],[algoritmo],[Random=Forest],
+ADV,DET,N,PRP,DET,N,V,DET,N,PRP,DET,N,PROP,
+Quais são os hiperparâmetros do Random Forest, e para que eles servem?
+Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.
+hiperparametro
+quais,são,os,hiperparâmetros,de,o,Random,Forest,e,para,que,eles,servem,
+[qual],[ser],[o],[parâmetro],[de],[o],[Random=Forest],[e],[para],[que],[eles],[servir],
+DET,V,DET,N,PRP,DET,PROP,KC,PRP,SPEC,PERS,V,
+Qual a serventia dos hiperparâmetros no algoritmo Random Forest?
+Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.
+hiperparametro
+qual,a,serventia,de,os,hiperparâmetros,em,o,algoritmo,Random,Forest,
+[qual],[o],[serventia],[de],[o],[parâmetro],[em],[o],[algoritmo],[Random=Forest],
+DET,DET,N,PRP,DET,N,PRP,DET,N,PROP,
+Quais as desvantagens do Random Forest?
+A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.
+desvantagem
+quais,as,desvantagens,de,o,Random,Forest,
+[qual],[o],[desvantagem],[de],[o],[Random=Forest],
+DET,DET,N,PRP,DET,PROP,
+Quais os pontos fracos do Floresta Randômica?
+A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.
+desvantagem
+quais,os,pontos,fracos,de,o,Floresta,Randômica,
+[qual],[o],[ponto=fraco],[de],[o],[Floresta=Randômica],
+DET,DET,N,PRP,DET,PROP,
+Qual a limitação do Floresta Randômica?
+A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.
+desvantagem
+qual,a,limitação,de,o,Floresta,Randômica,
+[qual],[o],[limitação],[de],[o],[Floresta=Randômica],
+DET,DET,N,PRP,DET,PROP,
+O que poderia justificar o não uso do Random Forest?
+A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.
+desvantagem
+o,que,poderia,justificar,o,não,uso,de,o,Random,Forest,
+[o=que],[poder],[justificar],[ele],[não],[uso],[de],[o],[Random=Forest],
+SPEC,V,V,PERS,ADV,N,PRP,DET,PROP,
+O que faz com que o Random Forest nao seja sempre viável?
+A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.
+desvantagem
+o,que,faz,com,que,o,Random,Forest,nao,seja,sempre,viável,
+[o=que],[fazer],[com],[que],[o],[Random=Forest],[não],[ser],[sempre],[viável],
+SPEC,V,PRP,KS,DET,PROP,ADV,V,ADV,ADJ,
+No tocante aos resultados que uma floresta pode obter e o número de árvores nesta floresta, há uma relação?
+Quanto maior o número de árvores, mais acurado é o resultado obtido.
+funcionamento
+no,tocante,a,os,resultados,que,uma,floresta,pode,obter,e,o,número,de,árvores,em,esta,floresta,há,uma,relação,
+[no=tocante=a],[o],[resultado],[que],[um],[floresta],[poder],[obter],[e],[o],[número],[de],[árvore],[em],[este],[floresta],[haver],[um],[relação],
+PRP,DET,N,SPEC,DET,N,V,V,KC,DET,N,PRP,N,PRP,DET,N,V,DET,N,
+Existe uma relação direta entre o número de árvores na floresta e os resultados que ela pode obter?
+Quanto maior o número de árvores, mais acurado é o resultado obtido.
+funcionamento
+existe,uma,relação,direta,entre,o,número,de,árvores,em,a,floresta,e,os,resultados,que,ela,pode,obter,
+[existir],[um],[relação],[direto],[entre],[o],[número],[de],[árvore],[em],[o],[floresta],[e],[o],[resultado],[que],[ela],[poder],[obter],
+V,DET,N,ADJ,PRP,DET,N,PRP,N,PRP,DET,N,KC,DET,N,SPEC,PERS,V,V,
+Há uma relação direta entre o número de árvores na floresta e os resultados que ela pode obter?
+Quanto maior o número de árvores, mais acurado é o resultado obtido.
+funcionamento
+há,uma,relação,direta,entre,o,número,de,árvores,em,a,floresta,e,os,resultados,que,ela,pode,obter,
+[haver],[um],[relação],[direto],[entre],[o],[número],[de],[árvore],[em],[o],[floresta],[e],[o],[resultado],[que],[ela],[poder],[obter],
+V,DET,N,ADJ,PRP,DET,N,PRP,N,PRP,DET,N,KC,DET,N,SPEC,PERS,V,V,
+De que forma o número de árvores na floresta impacta nos resultados?
+Quanto maior o número de árvores, mais acurado é o resultado obtido.
+funcionamento
+de,que,forma,o,número,de,árvores,em,a,floresta,impacta,impata,em,os,resultados,
+[de],[que],[forma],[o],[número],[de],[árvore],[em],[o],[floresta],[pata],[em],[o],[resultado],
+PRP,DET,N,DET,N,PRP,N,PRP,DET,N,N,PRP,DET,N,
+Existe uma relação direta entre os resultados que a floresta pode obter e o número de árvores que contém?
+Quanto maior o número de árvores, mais acurado é o resultado obtido.
+funcionamento
+existe,uma,relação,direta,entre,os,resultados,que,a,floresta,pode,obter,e,o,número,de,árvores,que,contém,
+[existir],[um],[relação],[direto],[entre],[o],[resultado],[que],[o],[floresta],[poder],[obter],[e],[o],[número],[de],[árvore],[que],[conter],
+V,DET,N,ADJ,PRP,DET,N,SPEC,DET,N,V,V,KC,DET,N,PRP,N,SPEC,V,
+Qual a diferença entre o algoritmo random forest e árvore de decisão?
+No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo "0" a uma divisão perfeita, e "50/50" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.
+funcionamento
+qual,a,diferença,entre,o,algoritmo,random,forest,e,árvore,de,decisão,
+[qual],[o],[diferença],[entre],[o],[algoritmo],[random],[forest],[e],[árvore],[de],[decisão],
+DET,DET,N,PRP,DET,N,N,N,KC,N,PRP,N,
+Qual a diferença entre o algoritmo random forest e árvore de decisão?
+No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo "0" a uma divisão perfeita, e "50/50" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.
+funcionamento
+qual,a,diferença,entre,o,algoritmo,random,forest,e,árvore,de,decisão,
+[qual],[o],[diferença],[entre],[o],[algoritmo],[random],[forest],[e],[árvore],[de],[decisão],
+DET,DET,N,PRP,DET,N,N,N,KC,N,PRP,N,
+Como os algoritmos random forest e árvore de decisão são diferentes?
+No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo "0" a uma divisão perfeita, e "50/50" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.
+funcionamento
+como,os,algoritmos,random,forest,e,árvore,de,decisão,são,diferentes,
+[como],[o],[algoritmo],[random],[forest],[e],[árvore],[de],[decisão],[ser],[diferente],
+ADV,DET,N,N,N,KC,N,PRP,N,V,ADJ,
+Os algoritmos random forest e decision tree selecionam o nodo raiz da mesma forma?
+No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo "0" a uma divisão perfeita, e "50/50" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.
+funcionamento
+os,algoritmos,random,forest,e,decision,tree,selecionam,o,nodo,raiz,de,a,mesma,forma,
+[o],[algoritmo],[random],[forest],[e],[decision],[tree],[selecionar],[o],[nodo],[raiz],[de],[o],[mesmo],[forma],
+DET,N,N,N,KC,N,N,V,DET,ADJ,N,PRP,DET,DET,N,
+Quais mecanismos são utilizados pelo random forest e pelo decision tree para selecionar o nodo raiz?
+No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo "0" a uma divisão perfeita, e "50/50" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.
+funcionamento
+quais,mecanismos,são,utilizados,por,o,random,forest,e,por,o,decision,tree,para,selecionar,o,nodo,raiz,
+[qual],[mecanismo],[ser],[utilizar],[por],[o],[random],[forest],[e],[por],[o],[decision],[trear],[para],[selecionar],[o],[nodo],[raiz],
+DET,N,V,V,PRP,DET,N,N,KC,PRP,DET,N,V,PRP,V,DET,ADJ,N,
+O que é o hiperparâmetro n_estimators?
+O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta.
+ nEstimators
+o,que,é,o,hiperparâmetro,n_estimators,
+[o=que],[ser],[o],[parâmetro],[n_estimar],
+SPEC,V,DET,N,N,
+Para que serve o hiperparâmetro n_estimators?
+O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta.
+ nEstimators
+para,que,serve,o,hiperparâmetro,n_estimators,
+[para],[que],[servir],[o],[parâmetro],[n_estimar],
+PRP,SPEC,V,DET,N,N,
+Como o hiperparâmetro n_estimators afeta o funcionamento do algoritmo?
+O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta.
+ nEstimators
+como,o,hiperparâmetro,n_estimators,afeta,o,funcionamento,de,o,algoritmo,
+[como],[o],[parâmetro],[n_estimar],[afetar],[o],[funcionamento],[de],[o],[algoritmo],
+ADV,DET,N,N,V,DET,N,PRP,DET,N,
+Qual é a importância do hiperparâmetro n_estimators?
+O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta.
+ nEstimators
+qual,é,a,importância,de,o,hiperparâmetro,n_estimators,
+[qual],[ser],[o],[importância],[de],[o],[parâmetro],[n_estimar],
+DET,V,DET,N,PRP,DET,N,N,
+Explique o hiperparâmetro n_estimators.
+O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta.
+ nEstimators
+explique,o,hiperparâmetro,n_estimators,
+[explicar],[o],[parâmetro],[n_estimar],
+V,DET,N,N,
+O que é o hiperparâmetro max_features?
+O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.
+maxFeatures
+o,que,é,o,hiperparâmetro,max_features,
+[o=que],[ser],[o],[parâmetro],[max_feature],
+SPEC,V,DET,N,N,
+Para que serve o hiperparâmetro max_features?
+O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.
+maxFeatures
+para,que,serve,o,hiperparâmetro,max_features,
+[para],[que],[servir],[o],[parâmetro],[max_feature],
+PRP,SPEC,V,DET,N,N,
+Como o hiperparâmetro max_features afeta o funcionamento do algoritmo?
+O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.
+maxFeatures
+como,o,hiperparâmetro,max_features,afeta,o,funcionamento,de,o,algoritmo,
+[como],[o],[parâmetro],[max_feature],[afetar],[o],[funcionamento],[de],[o],[algoritmo],
+ADV,DET,N,N,V,DET,N,PRP,DET,N,
+Qual é a importância do hiperparâmetro max_features?
+O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.
+maxFeatures
+qual,é,a,importância,de,o,hiperparâmetro,max_features,
+[qual],[ser],[o],[importância],[de],[o],[parâmetro],[max_feature],
+DET,V,DET,N,PRP,DET,N,N,
+Explique o hiperparâmetro max_features.
+O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.
+maxFeatures
+explique,o,hiperparâmetro,max_features,
+[explicar],[o],[parâmetro],[max_feature],
+V,DET,N,N,
+O que é o hiperparâmetro n_jobs?
+O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.
+nJobs
+o,que,é,o,hiperparâmetro,n_jobs,
+[o=que],[ser],[o],[parâmetro],[n_job],
+SPEC,V,DET,N,N,
+Para que serve o hiperparâmetro n_jobs?
+O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.
+nJobs
+para,que,serve,o,hiperparâmetro,n_jobs,
+[para],[que],[servir],[o],[parâmetro],[n_job],
+PRP,SPEC,V,DET,N,N,
+Como o hiperparâmetro n_jobs afeta o funcionamento do algoritmo?
+O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.
+nJobs
+como,o,hiperparâmetro,n_jobs,afeta,o,funcionamento,de,o,algoritmo,
+[como],[o],[parâmetro],[n_job],[afetar],[o],[funcionamento],[de],[o],[algoritmo],
+ADV,DET,N,N,V,DET,N,PRP,DET,N,
+Qual é a importância do hiperparâmetro n_jobs?
+O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.
+nJobs
+qual,é,a,importância,de,o,hiperparâmetro,n_jobs,
+[qual],[ser],[o],[importância],[de],[o],[parâmetro],[n_job],
+DET,V,DET,N,PRP,DET,N,N,
+Explique o hiperparâmetro n_jobs.
+O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.
+nJobs
+explique,o,hiperparâmetro,n_jobs,
+[explicar],[o],[parâmetro],[n_job],
+V,DET,N,N,
+O que é o hiperparâmetro min_sample_leaf ?
+O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.
+minSampleLeaf
+o,que,é,o,hiperparâmetro,min_sample_leaf,
+[o=que],[ser],[o],[parâmetro],[min_sample_leaf],
+SPEC,V,DET,N,ADJ,
+Para que serve o hiperparâmetro min_sample_leaf?
+O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.
+minSampleLeaf
+para,que,serve,o,hiperparâmetro,min_sample_leaf,
+[para],[que],[servir],[o],[parâmetro],[min_sample_leaf],
+PRP,SPEC,V,DET,N,ADJ,
+Como o hiperparâmetro min_sample_leaf  afeta o funcionamento do algoritmo?
+O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.
+minSampleLeaf
+como,o,hiperparâmetro,min_sample_leaf,afeta,o,funcionamento,de,o,algoritmo,
+[como],[o],[parâmetro],[min_sample_leaf],[afetar],[o],[funcionamento],[de],[o],[algoritmo],
+ADV,DET,N,ADJ,V,DET,N,PRP,DET,N,
+Qual é a importância do hiperparâmetro min_sample_leaf ?
+O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.
+minSampleLeaf
+qual,é,a,importância,de,o,hiperparâmetro,min_sample_leaf,
+[qual],[ser],[o],[importância],[de],[o],[parâmetro],[min_sample_leaf],
+DET,V,DET,N,PRP,DET,N,ADJ,
+Explique o hiperparâmetro min_sample_leaf .
+O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.
+minSampleLeaf
+explique,o,hiperparâmetro,min_sample_leaf,
+[explicar],[o],[parâmetro],[min_sample_leaf],
+V,DET,N,ADJ,
+O que é o hiperparâmetro random_state?
+O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado
+randomState
+o,que,é,o,hiperparâmetro,random_state,
+[o=que],[ser],[o],[parâmetro],[random_stater],
+SPEC,V,DET,N,V,
+Para que serve o hiperparâmetro random_state?
+O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado
+randomState
+para,que,serve,o,hiperparâmetro,random_state,
+[para],[que],[servir],[o],[parâmetro],[random_stater],
+PRP,KS,V,DET,N,V,
+Como o hiperparâmetro random_state afeta o funcionamento do algoritmo?
+O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado
+randomState
+como,o,hiperparâmetro,random_state,afeta,o,funcionamento,de,o,algoritmo,
+[como],[o],[parâmetro],[random_stater],[afeto],[o],[funcionamento],[de],[o],[algoritmo],
+ADV,DET,N,V,ADJ,DET,N,PRP,DET,N,
+Qual é a importância do hiperparâmetro random_state?
+O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado
+randomState
+qual,é,a,importância,de,o,hiperparâmetro,random_state,
+[qual],[ser],[o],[importância],[de],[o],[parâmetro],[random_statar],
+DET,V,DET,N,PRP,DET,N,V,
+Explique o hiperparâmetro random_state.
+O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado
+randomState
+explique,o,hiperparâmetro,random_state,
+[explicar],[o],[parâmetro],[random_state],
+V,DET,N,N,
+O que é o hiperparâmetro oob_score?
+O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional
+oobScore
+o,que,é,o,hiperparâmetro,oob_score,
+[o=que],[ser],[o],[parâmetro],[oob_score],
+SPEC,V,DET,N,ADJ,
+Para que serve o hiperparâmetro oob_score?
+O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional
+oobScore
+para,que,serve,o,hiperparâmetro,oob_score,
+[para],[que],[servir],[o],[parâmetro],[oob_score],
+PRP,KS,V,DET,N,ADJ,
+Como o hiperparâmetro oob_score afeta o funcionamento do algoritmo?
+O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional
+oobScore
+como,o,hiperparâmetro,oob_score,afeta,o,funcionamento,de,o,algoritmo,
+[como],[o],[parâmetro],[oob_score],[afetar],[o],[funcionamento],[de],[o],[algoritmo],
+ADV,DET,N,ADJ,V,DET,N,PRP,DET,N,
+Qual é a importância do hiperparâmetro oob_score?
+O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional
+oobScore
+qual,é,a,importância,de,o,hiperparâmetro,oob_score,
+[qual],[ser],[o],[importância],[de],[o],[parâmetro],[oob_score],
+DET,V,DET,N,PRP,DET,N,ADJ,
+Explique o hiperparâmetro oob_score.
+O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional
+oobScore
+explique,o,hiperparâmetro,oob_score,
+[explicar],[o],[parâmetro],[oob_score],
+V,DET,N,ADJ,
+Como é utilizado o florest aleatório em bancos?
+O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.
+aplicacao
+como,é,utilizado,o,florest,aleatório,em,bancos,
+[como],[ser],[utilizar],[o],[florest],[aleatório],[em],[banco],
+ADV,V,V,DET,N,ADJ,PRP,N,
+Para que serve o random forest em sistemas bancários?
+O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.
+aplicacao
+para,que,serve,o,random,forest,em,sistemas,bancários,
+[para],[que],[servir],[o],[random],[forest],[em],[sistema],[bancário],
+PRP,SPEC,V,DET,N,N,PRP,N,ADJ,
+Qual a principal utilização de random forest no setor bancários?
+O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.
+aplicacao
+qual,a,principal,utilização,de,random,forest,em,o,setor,bancários,
+[qual],[o],[principal],[utilização],[de],[random],[forest],[em],[o],[setor],[bancário],
+DET,DET,ADJ,N,PRP,N,N,PRP,DET,N,ADJ,
+Qual o principal uso de random forest em sistemas bancários?
+O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.
+aplicacao
+qual,o,principal,uso,de,random,forest,em,sistemas,bancários,
+[qual],[o],[principal],[uso],[de],[random],[forest],[em],[sistema],[bancário],
+DET,DET,ADJ,N,PRP,N,N,PRP,N,ADJ,
+Qual o principal uso de random forest em sistemas financeiros?
+O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.
+aplicacao
+qual,o,principal,uso,de,random,forest,em,sistemas,financeiros,
+[qual],[o],[principal],[uso],[de],[random],[forest],[em],[sistema],[financeiro],
+DET,DET,ADJ,N,PRP,N,N,PRP,N,ADJ,
+Para quê o random forest é usado no campo da medicina?
+O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.
+aplicacao
+para,quê,o,random,forest,é,usado,em,o,campo,de,a,medicina,
+[para],[quê],[o],[random],[forest],[ser],[usar],[em],[o],[campo],[de],[o],[medicina],
+PRP,SPEC,DET,N,N,V,V,PRP,DET,N,PRP,DET,N,
+Qual a principal random forest na medicina?
+O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.
+aplicacao
+qual,a,principal,random,forest,em,a,medicina,
+[qual],[o],[principal],[random],[forest],[em],[o],[medicina],
+DET,DET,ADJ,N,N,PRP,DET,N,
+No contexto da medicina, como random forest pode ser útil?
+O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.
+aplicacao
+em,o,contexto,de,a,medicina,como,random,forest,pode,ser,útil,
+[em],[o],[contexto],[de],[o],[medicina],[como],[random],[forest],[poder],[ser],[útil],
+PRP,DET,N,PRP,DET,N,ADV,N,N,V,V,ADJ,
+Qual o principal uso de random forest na medicina?
+O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.
+aplicacao
+qual,o,principal,uso,de,random,forest,em,a,medicina,
+[qual],[o],[principal],[uso],[de],[random],[forest],[em],[o],[medicina],
+DET,DET,ADJ,N,PRP,N,N,PRP,DET,N,
+Na medicina, random forest é principalmente usado para que?
+O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.
+aplicacao
+em,a,medicina,random,forest,é,principalmente,usado,para,que,
+[em],[o],[medicina],[random],[forest],[ser],[principalmente],[usar],[para],[que],
+PRP,DET,N,N,N,V,ADV,V,PRP,SPEC,
+Para quê o random forest é usado no campo da mercado de ações?
+O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.
+aplicacao
+para,quê,o,random,forest,é,usado,em,o,campo,de,a,mercado,de,ações,
+[para],[quê],[o],[random],[forest],[ser],[usar],[em],[o],[campo],[de],[o],[mercado],[de],[ação],
+PRP,SPEC,DET,N,N,V,V,PRP,DET,N,PRP,DET,N,PRP,N,
+Qual a principal random forest no mercado acionário?
+O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.
+aplicacao
+qual,a,principal,random,forest,em,o,mercado,acionário,
+[qual],[o],[principal],[random],[forest],[em],[o],[mercado],[acionário],
+DET,DET,ADJ,N,N,PRP,DET,N,ADJ,
+No contexto da mercado de ações, como random forest pode ser útil?
+O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.
+aplicacao
+em,o,contexto,de,a,mercado,de,ações,como,random,forest,pode,ser,útil,
+[em],[o],[contexto],[de],[o],[mercado],[de],[ação],[como],[random],[forest],[poder],[ser],[útil],
+PRP,DET,N,PRP,DET,N,PRP,N,ADV,N,N,V,V,ADJ,
+Qual o principal uso de random forest na mercado de ações?
+O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.
+aplicacao
+qual,o,principal,uso,de,random,forest,em,a,mercado,de,ações,
+[qual],[o],[principal],[uso],[de],[random],[forest],[em],[o],[mercado],[de],[ação],
+DET,DET,ADJ,N,PRP,N,N,PRP,DET,N,PRP,N,
+Na mercado de ações, random forest é principalmente usado para que?
+O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.
+aplicacao
+em,a,mercado,de,ações,random,forest,é,principalmente,usado,para,que,
+[em],[o],[mercado],[de],[ação],[random],[forest],[ser],[principalmente],[usar],[para],[que],
+PRP,DET,N,PRP,N,N,N,V,ADV,V,PRP,SPEC,
+Qual a principal random forest no e-commerce?
+O algoritmo pode ser usado para predizer se o cliente vai gostar dos produtos recomendados a ele, baseados nas experiências obtidas com clientes semelhantes.
+aplicacao
+qual,a,principal,random,forest,em,o,e-commerce,commêrce,
+[qual],[o],[principal],[random],[forest],[em],[o],[mercê],
+DET,DET,ADJ,N,N,PRP,DET,N,
+No contexto do e-commerce, como random forest pode ser útil?
+O algoritmo pode ser usado para predizer se o cliente vai gostar dos produtos recomendados a ele, baseados nas experiências obtidas com clientes semelhantes.
+aplicacao
+em,o,contexto,de,o,e-commerce,commêrce,como,random,forest,pode,ser,útil,
+[em],[o],[contexto],[de],[o],[mercê],[como],[random],[forest],[poder],[ser],[útil],
+PRP,DET,N,PRP,DET,N,ADV,N,N,V,V,ADJ,
+Qual o principal uso de random forest no e-commerce?
+O algoritmo pode ser usado para predizer se o cliente vai gostar dos produtos recomendados a ele, baseados nas experiências obtidas com clientes semelhantes.
+aplicacao
+qual,o,principal,uso,de,random,forest,em,o,e-commerce,commêrce,
+[qual],[o],[principal],[uso],[de],[random],[forest],[em],[o],[mercê],
+DET,DET,ADJ,N,PRP,N,N,PRP,DET,N,
+No e-commerce, random forest é principalmente usado para que?
+O algoritmo pode ser usado para predizer se o cliente vai gostar dos produtos recomendados a ele, baseados nas experiências obtidas com clientes semelhantes.
+aplicacao
+em,o,e-commerce,commêrce,random,forest,é,principalmente,usado,para,que,
+[em],[o],[mercê],[random],[forest],[ser],[principalmente],[usar],[para],[que],
+PRP,DET,N,N,N,V,ADV,V,PRP,SPEC,
+No setor de e-commerce, para que random forest é usado?
+O algoritmo pode ser usado para predizer se o cliente vai gostar dos produtos recomendados a ele, baseados nas experiências obtidas com clientes semelhantes.
+aplicacao
+em,o,setor,de,e-commerce,commêrce,para,que,random,forest,é,usado,
+[em],[o],[setor],[de],[mercê],[para],[que],[random],[forest],[ser],[usar],
+PRP,DET,N,PRP,N,PRP,KS,N,N,V,V,
+Random Forest pode ser usado para classificação?
+Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+Random,Forest,pode,ser,usado,para,classificação,
+[Random=Forest],[poder],[ser],[usar],[para],[classificação],
+PROP,V,V,V,PRP,N,
+Pode-se usar algoritmo de random forest para classificação?
+Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+pode-,se,usar,algoritmo,de,random,forest,para,classificação,
+[poder],[se],[usar],[algoritmo],[de],[random],[forest],[para],[classificação],
+V,PERS,V,N,PRP,N,N,PRP,N,
+Classificação é uma das coisas que random forest pode ser usado?
+Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+classificação,é,uma,de,as,coisas,que,random,forest,pode,ser,usado,
+[classificação],[ser],[um],[de],[o],[coisa],[que],[random],[forest],[poder],[ser],[usar],
+N,V,NUM,PRP,DET,N,DET,N,N,V,V,V,
+Das aplicações de random forest, classificação é uma delas?
+Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+de,as,aplicações,de,random,forest,classificação,é,uma,de,elas,
+[de],[o],[aplicação],[de],[random],[forest],[classificação],[ser],[um],[de],[elas],
+PRP,DET,N,PRP,N,N,N,V,NUM,PRP,PERS,
+Random forest pode ser usado para regressão?
+Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+Random,forest,pode,ser,usado,para,regressão,
+[Random],[forest],[poder],[ser],[usar],[para],[regressão],
+PROP,N,V,V,V,PRP,N,
+Pode o algoritmo de random forest ser usado para regressão?
+Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+pode,o,algoritmo,de,random,forest,ser,usado,para,regressão,
+[poder],[o],[algoritmo],[de],[random],[forest],[ser],[usar],[para],[regressão],
+V,DET,N,PRP,N,N,V,V,PRP,N,
+Regressão é uma das coisas que random forest pode ser usado?
+Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+regressão,é,uma,de,as,coisas,que,random,forest,pode,ser,usado,
+[regressão],[ser],[um],[de],[o],[coisa],[que],[random],[forest],[poder],[ser],[usar],
+N,V,NUM,PRP,DET,N,DET,N,N,V,V,V,
+É possível usar regressão com random forest?
+Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+é,possível,usar,regressão,com,random,forest,
+[ser],[possível],[usar],[regressão],[com],[random],[forest],
+V,ADJ,V,N,PRP,N,N,
+Das aplicações de random forest, regressão é uma delas?
+Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.
+aplicacao
+de,as,aplicações,de,random,forest,regressão,é,uma,de,elas,
+[de],[o],[aplicação],[de],[random],[forest],[regressão],[ser],[um],[de],[elas],
+PRP,DET,N,PRP,N,N,N,V,NUM,PRP,PERS,
+Existem variações na implementação do random forest? 
+Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.
+implementacao
+existem,variações,em,a,implementação,de,o,random,forest,
+[existir],[variação],[em],[o],[implementação],[de],[o],[random],[forest],
+V,N,PRP,DET,N,PRP,DET,N,N,
+É possível substituir as árvores de decisão por outras estruturas no random forest?
+Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.
+implementacao
+é,possível,substituir,as,árvores,de,decisão,por,outras,estruturas,em,o,random,forest,
+[ser],[possível],[substituir],[o],[árvore],[de],[decisão],[por],[outro],[estrutura],[em],[o],[random],[forest],
+V,ADJ,V,DET,N,PRP,N,PRP,DET,N,PRP,DET,N,N,
+A floresta aleatória só funciona baseada em árvores de decisão?
+Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.
+implementacao
+a,floresta,aleatória,só,funciona,baseada,em,árvores,de,decisão,
+[o],[floresta],[aleatório],[só],[funcionar],[basear],[em],[árvore],[de],[decisão],
+DET,N,ADJ,ADV,V,V,PRP,N,PRP,N,
+Há algum substitutivo para as árvores de decisão na floresta aleatória?
+Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.
+implementacao
+há,algum,substitutivo,para,as,árvores,de,decisão,em,a,floresta,aleatória,
+[haver],[algum],[substitutivo],[para],[o],[árvore],[de],[decisão],[em],[o],[floresta],[aleatório],
+V,DET,ADJ,PRP,DET,N,PRP,N,PRP,DET,N,ADJ,
+Podem ser usados outros algoritmos como estimadores base no random forest?
+Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.
+implementacao
+podem,ser,usados,outros,algoritmos,como,estimadores,base,em,o,random,forest,
+[poder],[ser],[usar],[outro],[algoritmo],[como],[estimador],[base],[em],[o],[random],[forest],
+V,V,V,DET,N,ADV,N,N,PRP,DET,N,N,
+O que é o algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão
+conceito
+o,que,é,o,algoritmo,floresta,aleatória,
+[o=que],[ser],[o],[algoritmo],[floresta],[aleatório],
+SPEC,V,DET,N,N,ADJ,
+Qual a definição do algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão
+conceito
+qual,a,definição,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[definição],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+O que significa o algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão
+conceito
+o,que,significa,o,algoritmo,floresta,aleatória,
+[o=que],[significar],[o],[algoritmo],[floresta],[aleatório],
+SPEC,V,DET,N,N,ADJ,
+Qual o conceito do algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão
+conceito
+qual,o,conceito,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[conceito],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Qual o significado do algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão
+conceito
+qual,o,significado,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[significado],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Para que serve o algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.
+aplicacao
+para,que,serve,o,algoritmo,floresta,aleatória,
+[para],[que],[servir],[o],[algoritmo],[floresta],[aleatório],
+PRP,SPEC,V,DET,N,N,ADJ,
+Qual o objetivo do algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.
+aplicacao
+qual,o,objetivo,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[objetivo],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Qual o propósito do algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.
+aplicacao
+qual,o,propósito,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[propósito],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Qual a finalidade do algoritmo Floresta aleatória?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.
+aplicacao
+qual,a,finalidade,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[finalidade],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+O que o algoritmo Floresta aleatória tem como objetivo?
+Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.
+aplicacao
+o,que,o,algoritmo,floresta,aleatória,tem,como,objetivo,
+[o=que],[o],[algoritmo],[floresta],[aleatório],[ter],[como],[objetivo],
+SPEC,DET,N,N,ADJ,V,ADV,N,
+Como funciona o algoritmo Floresta aleatória?
+O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.
+funcionamento
+como,funciona,o,algoritmo,floresta,aleatória,
+[como],[funcionar],[o],[algoritmo],[floresta],[aleatório],
+ADV,V,DET,N,N,ADJ,
+Como opera o algoritmo Floresta aleatória?
+O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.
+funcionamento
+como,opera,o,algoritmo,floresta,aleatória,
+[como],[operar],[o],[algoritmo],[floresta],[aleatório],
+ADV,V,DET,N,N,ADJ,
+Como trabalha o algoritmo Floresta aleatória?
+O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.
+funcionamento
+como,trabalha,o,algoritmo,floresta,aleatória,
+[como],[trabalhar],[o],[algoritmo],[floresta],[aleatório],
+ADV,V,DET,N,N,ADJ,
+Qual o funcionamento do algoritmo Floresta aleatória?
+O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.
+funcionamento
+qual,o,funcionamento,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[funcionamento],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Como o algoritmo Floresta aleatória realiza a classificação?
+O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.
+funcionamento
+como,o,algoritmo,floresta,aleatória,realiza,a,classificação,
+[como],[o],[algoritmo],[floresta],[aleatório],[realizar],[o],[classificação],
+ADV,DET,N,N,ADJ,V,DET,N,
+Quais são os benefícios do algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+vantagem
+quais,são,os,benefícios,de,o,algoritmo,floresta,aleatória,
+[qual],[ser],[o],[benefício],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,V,DET,N,PRP,DET,N,N,ADJ,
+Quais as vantagens do algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+vantagem
+quais,as,vantagens,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[vantagem],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+O que se pode ganhar utilizando o algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+vantagem
+o,que,se,pode,ganhar,utilizando,o,algoritmo,floresta,aleatória,
+[o=que],[se],[poder],[ganhar],[utilizar],[o],[algoritmo],[floresta],[aleatório],
+SPEC,PERS,V,V,V,DET,N,N,ADJ,
+Por que é preferível utilizar o algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+vantagem
+por,que,é,preferível,utilizar,o,algoritmo,floresta,aleatória,
+[por=que],[ser],[preferível],[utilizar],[o],[algoritmo],[floresta],[aleatório],
+ADV,V,ADJ,V,DET,N,N,ADJ,
+O que faz o algoritmo Floresta aleatória melhor que os outros?
+https://www.mql5.com/pt/articles/3856
+vantagem
+o,que,faz,o,algoritmo,floresta,aleatória,melhor,que,os,outros,
+[o=que],[fazer],[o],[algoritmo],[floresta],[aleatório],[bom],[que],[o],[outro],
+SPEC,V,DET,N,N,ADJ,ADJ,KS,DET,DET,
+O que motivou a criação do algoritmo Floresta aleatória?
+O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.
+historia
+o,que,motivou,a,criação,de,o,algoritmo,floresta,aleatória,
+[o=que],[motivar],[o],[criação],[de],[o],[algoritmo],[floresta],[aleatório],
+SPEC,V,DET,N,PRP,DET,N,N,ADJ,
+O que causou a criação do algoritmo Floresta aleatória?
+O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.
+historia
+o,que,causou,a,criação,de,o,algoritmo,floresta,aleatória,
+[o=que],[causar],[o],[criação],[de],[o],[algoritmo],[floresta],[aleatório],
+SPEC,V,DET,N,PRP,DET,N,N,ADJ,
+Por que o algoritmo Floresta aleatória foi criado?
+O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.
+historia
+por,que,o,algoritmo,floresta,aleatória,foi,criado,
+[por=que],[o],[algoritmo],[floresta],[aleatório],[ser],[criado],
+ADV,DET,N,N,ADJ,V,N,
+Por que o algoritmo Floresta aleatória existe?
+O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.
+historia
+por,que,o,algoritmo,floresta,aleatória,existe,
+[por=que],[o],[algoritmo],[floresta],[aleatório],[existir],
+ADV,DET,N,N,ADJ,V,
+Qual a razão de o algoritmo Floresta aleatória ter sido criado?
+O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.
+historia
+qual,a,razão,de,o,algoritmo,floresta,aleatória,ter,sido,criado,
+[qual],[o],[razão],[de],[o],[algoritmo],[floresta],[aleatório],[ter],[ser],[criado],
+DET,DET,N,PRP,DET,N,N,ADJ,V,V,N,
+O que é uma árvore de decisão?
+Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.
+conceitoArvore
+o,que,é,uma,árvore,de,decisão,
+[o=que],[ser],[um],[árvore],[de],[decisão],
+SPEC,V,DET,N,PRP,N,
+Qual a definição de uma árvore de decisão?
+Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.
+conceitoArvore
+qual,a,definição,de,uma,árvore,de,decisão,
+[qual],[o],[definição],[de],[um],[árvore],[de],[decisão],
+DET,DET,N,PRP,DET,N,PRP,N,
+O que significa árvore de decisão?
+Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.
+conceitoArvore
+o,que,significa,árvore,de,decisão,
+[o=que],[significar],[árvore],[de],[decisão],
+SPEC,V,N,PRP,N,
+Qual o conceito de uma árvore de decisão?
+Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.
+conceitoArvore
+qual,o,conceito,de,uma,árvore,de,decisão,
+[qual],[o],[conceito],[de],[um],[árvore],[de],[decisão],
+DET,DET,N,PRP,DET,N,PRP,N,
+Qual o significado de uma árvore de decisão?
+Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.
+conceitoArvore
+qual,o,significado,de,uma,árvore,de,decisão,
+[qual],[o],[significado],[de],[um],[árvore],[de],[decisão],
+DET,DET,N,PRP,DET,N,PRP,N,
+O que é o método de subespaço aleatório?
+O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.
+metodo
+o,que,é,o,método,de,subespaço,aleatório,
+[o=que],[ser],[o],[método],[de],[espaço],[aleatório],
+SPEC,V,DET,N,PRP,N,ADJ,
+Qual a definição do método de subespaço aleatório?
+O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.
+metodo
+qual,a,definição,de,o,método,de,subespaço,aleatório,
+[qual],[o],[definição],[de],[o],[método],[de],[espaço],[aleatório],
+DET,DET,N,PRP,DET,N,PRP,N,ADJ,
+O que significa método de subespaço aleatório?
+O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.
+metodo
+o,que,significa,método,de,subespaço,aleatório,
+[o=que],[significar],[método],[de],[espaço],[aleatório],
+SPEC,V,N,PRP,N,ADJ,
+Qual o conceito do método de subespaço aleatório?
+O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.
+metodo
+qual,o,conceito,de,o,método,de,subespaço,aleatório,
+[qual],[o],[conceito],[de],[o],[método],[de],[espaço],[aleatório],
+DET,DET,N,PRP,DET,N,PRP,N,ADJ,
+Qual o significado do método de subespaço aleatório?
+O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.
+metodo
+qual,o,significado,de,o,método,de,subespaço,aleatório,
+[qual],[o],[significado],[de],[o],[método],[de],[espaço],[aleatório],
+DET,DET,N,PRP,DET,N,PRP,N,ADJ,
+Quais são os malefícios do uso do algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+desvantagem
+quais,são,os,malefícios,de,o,uso,de,o,algoritmo,floresta,aleatória,
+[qual],[ser],[o],[malefício],[de],[o],[uso],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,V,DET,N,PRP,DET,N,PRP,DET,N,N,ADJ,
+Que prejuízos o algoritmo Floresta aleatória pode causar à aplicação?
+https://www.mql5.com/pt/articles/3856
+desvantagem
+que,prejuízos,o,algoritmo,floresta,aleatória,pode,causar,a,a,aplicação,
+[que],[prejuízo],[o],[algoritmo],[floresta],[aleatório],[poder],[causar],[a],[o],[aplicação],
+DET,N,DET,N,N,ADJ,V,V,PRP,DET,N,
+Quais são as desvantagens do uso do algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+desvantagem
+quais,são,as,desvantagens,de,o,uso,de,o,algoritmo,floresta,aleatória,
+[qual],[ser],[o],[desvantagem],[de],[o],[uso],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,V,DET,N,PRP,DET,N,PRP,DET,N,N,ADJ,
+Em qual situação o algoritmo Floresta aleatória pode prejudicar a aplicação?
+https://www.mql5.com/pt/articles/3856
+desvantagem
+em,qual,situação,o,algoritmo,floresta,aleatória,pode,prejudicar,a,aplicação,
+[em],[qual],[situação],[o],[algoritmo],[floresta],[aleatório],[poder],[prejudicar],[o],[aplicação],
+PRP,DET,N,DET,N,N,ADJ,V,V,DET,N,
+Quais são as características ruins do algoritmo Floresta aleatória?
+https://www.mql5.com/pt/articles/3856
+desvantagem
+quais,são,as,características,ruins,de,o,algoritmo,floresta,aleatória,
+[qual],[ser],[o],[característica],[ruim],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,V,DET,N,ADJ,PRP,DET,N,N,ADJ,
+Para que servem os parâmetros do Floresta aleatória?
+aumentar o poder preditivo ou tornar o modelo mais rápido.
+hiperparametro
+para,que,servem,os,parâmetros,de,o,floresta,aleatória,
+[para],[que],[servir],[o],[parâmetro],[de],[o],[floresta],[aleatório],
+PRP,SPEC,V,DET,N,PRP,DET,N,ADJ,
+Para que são utilizados os parâmetros do Floresta aleatória?
+aumentar o poder preditivo ou tornar o modelo mais rápido.
+hiperparametro
+para,que,são,utilizados,os,parâmetros,de,o,floresta,aleatória,
+[para],[que],[ser],[utilizar],[o],[parâmetro],[de],[o],[floresta],[aleatório],
+PRP,SPEC,V,V,DET,N,PRP,DET,N,ADJ,
+Se mudarmos os parâmetros do Floresta aleatória o que pode ser modificado?
+aumentar o poder preditivo ou tornar o modelo mais rápido.
+hiperparametro
+se,mudarmos,os,parâmetros,de,o,floresta,aleatória,o,que,pode,ser,modificado,
+[se],[mudar],[o],[parâmetro],[de],[o],[floresta],[aleatório],[o=que],[poder],[ser],[modificar],
+PERS,V,DET,N,PRP,DET,N,ADJ,SPEC,V,V,V,
+Qual o impacto dos parâmetros no algoritmo Floresta aleatória?
+aumentar o poder preditivo ou tornar o modelo mais rápido.
+hiperparametro
+qual,o,impacto,de,os,parâmetros,em,o,algoritmo,floresta,aleatória,
+[qual],[o],[impacto],[de],[o],[parâmetro],[em],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,PRP,DET,N,N,ADJ,
+O aumento dos parâmetros traz quais benefícios ao Floresta aleatória?
+aumentar o poder preditivo ou tornar o modelo mais rápido.
+hiperparametro
+o,aumento,de,os,parâmetros,traz,quais,benefícios,a,o,floresta,aleatória,
+[o],[aumento],[de],[o],[parâmetro],[trazer],[qual],[benefício],[a],[o],[floresta],[aleatório],
+DET,N,PRP,DET,N,V,DET,N,PRP,DET,N,ADJ,
+Quais são os parâmetros que devem ser modificados para aumentar o poder preditivo do Floresta aleatória?
+max_features, n_estimators e min_sample_leaf
+hiperparametro
+quais,são,os,parâmetros,que,devem,ser,modificados,para,aumentar,o,poder,preditivo,de,o,floresta,aleatória,
+[qual],[ser],[o],[parâmetro],[que],[dever],[ser],[modificar],[para],[aumentar],[o],[poder],[preditivo],[de],[o],[floresta],[aleatório],
+DET,V,DET,N,SPEC,V,V,V,PRP,V,DET,N,ADJ,PRP,DET,N,ADJ,
+Quais parâmetros podem ser modificados para aumentar o poder preditivo do Floresta aleatória?
+max_features, n_estimators e min_sample_leaf
+hiperparametro
+quais,parâmetros,podem,ser,modificados,para,aumentar,o,poder,preditivo,de,o,floresta,aleatória,
+[qual],[parâmetro],[poder],[ser],[modificar],[para],[aumentar],[o],[poder],[preditivo],[de],[o],[floresta],[aleatório],
+DET,N,V,V,V,PRP,V,DET,N,ADJ,PRP,DET,N,ADJ,
+Quais modificações podem aumentar o poder preditivo do Floresta aleatória?
+max_features, n_estimators e min_sample_leaf
+hiperparametro
+quais,modificações,podem,aumentar,o,poder,preditivo,de,o,floresta,aleatória,
+[qual],[modificação],[poder],[aumentar],[o],[poder],[preditivo],[de],[o],[floresta],[aleatório],
+DET,N,V,V,DET,N,ADJ,PRP,DET,N,ADJ,
+Quais são os parâmetros responsáveis por aumentar o poder preditivo do Floresta aleatória?
+max_features, n_estimators e min_sample_leaf
+hiperparametro
+quais,são,os,parâmetros,responsáveis,por,aumentar,o,poder,preditivo,de,o,floresta,aleatória,
+[qual],[ser],[o],[parâmetro],[responsável],[por],[aumentar],[o],[poder],[preditivo],[de],[o],[floresta],[aleatório],
+DET,V,DET,N,ADJ,PRP,V,DET,N,ADJ,PRP,DET,N,ADJ,
+Com quais parâmetros o Floresta aleatória melhora seu poder preditivo?
+max_features, n_estimators e min_sample_leaf
+hiperparametro
+com,quais,parâmetros,o,floresta,aleatória,melhora,seu,poder,preditivo,
+[com],[qual],[parâmetro],[o],[floresta],[aleatório],[melhorar],[seu],[poder],[preditivo],
+PRP,DET,N,DET,N,ADJ,V,<poss,N,ADJ,
+Quais são os parâmetros que devem ser modificados para aumentar a velocidade do modelo do Floresta aleatória?
+n_jobs, random_state e oob_score
+hiperparametro
+quais,são,os,parâmetros,que,devem,ser,modificados,para,aumentar,a,velocidade,de,o,modelo,de,o,floresta,aleatória,
+[qual],[ser],[o],[parâmetro],[que],[dever],[ser],[modificar],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],[de],[o],[floresta],[aleatório],
+DET,V,DET,N,SPEC,V,V,V,PRP,V,DET,N,PRP,DET,N,PRP,DET,N,ADJ,
+Quais parâmetros podem ser modificados para aumentar a velocidade do modelo do Floresta aleatória?
+n_jobs, random_state e oob_score
+hiperparametro
+quais,parâmetros,podem,ser,modificados,para,aumentar,a,velocidade,de,o,modelo,de,o,floresta,aleatória,
+[qual],[parâmetro],[poder],[ser],[modificar],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],[de],[o],[floresta],[aleatório],
+DET,N,V,V,V,PRP,V,DET,N,PRP,DET,N,PRP,DET,N,ADJ,
+Quais modificações podem aumentar a velocidade do modelo do Floresta aleatória?
+n_jobs, random_state e oob_score
+hiperparametro
+quais,modificações,podem,aumentar,a,velocidade,de,o,modelo,de,o,floresta,aleatória,
+[qual],[modificação],[poder],[aumentar],[o],[velocidade],[de],[o],[modelo],[de],[o],[floresta],[aleatório],
+DET,N,V,V,DET,N,PRP,DET,N,PRP,DET,N,ADJ,
+Quais são os parâmetros responsáveis por aumentar a velocidade do modelo do Floresta aleatória?
+n_jobs, random_state e oob_score
+hiperparametro
+quais,são,os,parâmetros,responsáveis,por,aumentar,a,velocidade,de,o,modelo,de,o,floresta,aleatória,
+[qual],[ser],[o],[parâmetro],[responsável],[por],[aumentar],[o],[velocidade],[de],[o],[modelo],[de],[o],[floresta],[aleatório],
+DET,V,DET,N,ADJ,PRP,V,DET,N,PRP,DET,N,PRP,DET,N,ADJ,
+Com quais parâmetros o Floresta aleatória torna-se mais eficaz?
+n_jobs, random_state e oob_score
+hiperparametro
+com,quais,parâmetros,o,floresta,aleatória,torna-,se,mais,eficaz,
+[com],[qual],[parâmetro],[o],[floresta],[aleatório],[tornar],[se],[muito],[eficaz],
+PRP,DET,N,DET,N,ADJ,V,PERS,ADV,ADJ,
+Quantas e quais são as fases do Floresta aleatória?
+Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária
+funcionamento
+quantas,e,quais,são,as,fases,de,o,floresta,aleatória,
+[quanto],[e],[qual],[ser],[o],[fase],[de],[o],[floresta],[aleatório],
+DET,KC,DET,V,DET,N,PRP,DET,N,ADJ,
+Como funcionam as fases do Floresta aleatória e quantas são?
+Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária
+funcionamento
+como,funcionam,as,fases,de,o,floresta,aleatória,e,quantas,são,
+[como],[funcionar],[o],[fase],[de],[o],[floresta],[aleatório],[e],[quanto],[ser],
+ADV,V,DET,N,PRP,DET,N,ADJ,KC,DET,V,
+Quais mudanças são exercidas por cada fase do Floresta aleatória?
+Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária
+funcionamento
+quais,mudanças,são,exercidas,por,cada,fase,de,o,floresta,aleatória,
+[qual],[mudança],[ser],[exercer],[por],[cada],[fase],[de],[o],[floresta],[aleatório],
+DET,N,V,V,PRP,DET,N,PRP,DET,N,ADJ,
+O que cada fase do Floresta aleatória faz?
+Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária
+funcionamento
+o,que,cada,fase,de,o,floresta,aleatória,faz,
+[o=que],[cada],[fase],[de],[o],[floresta],[aleatório],[fazer],
+SPEC,DET,N,PRP,DET,N,ADJ,V,
+Quais os papéis de cada fase do Floresta aleatória?
+Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária
+funcionamento
+quais,os,papéis,de,cada,fase,de,o,floresta,aleatória,
+[qual],[o],[papel],[de],[cada],[fase],[de],[o],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,PRP,DET,N,ADJ,
+Qual tipo de paradigma é utilizado pelo Floresta aleatória?
+aprendizado supervisionado.
+paradigma
+qual,tipo,de,paradigma,é,utilizado,por,o,floresta,aleatória,
+[qual],[tipo],[de],[paradigma],[ser],[utilizar],[por],[o],[floresta],[aleatório],
+DET,N,PRP,N,V,V,PRP,DET,N,ADJ,
+Qual o paradigma utilizado pelo Floresta aleatória?
+aprendizado supervisionado.
+paradigma
+qual,o,paradigma,utilizado,por,o,floresta,aleatória,
+[qual],[o],[paradigma],[utilizar],[por],[o],[floresta],[aleatório],
+DET,DET,N,V,PRP,DET,N,ADJ,
+Qual tipo de paradigma o Floresta aleatória utiliza?
+aprendizado supervisionado.
+paradigma
+qual,tipo,de,paradigma,o,floresta,aleatória,utiliza,
+[qual],[tipo],[de],[paradigma],[o],[floresta],[aleatório],[utilizar],
+DET,N,PRP,N,DET,N,ADJ,V,
+O Floresta aleatória utiliza qual tipo de paradigma?
+aprendizado supervisionado.
+paradigma
+o,floresta,aleatória,utiliza,qual,tipo,de,paradigma,
+[o],[floresta],[aleatório],[utilizar],[qual],[tipo],[de],[paradigma],
+DET,N,ADJ,V,ADV,N,PRP,N,
+Qual paradigma o algoritmo Floresta aleatória segue?
+aprendizado supervisionado.
+paradigma
+qual,paradigma,o,algoritmo,floresta,aleatória,segue,
+[qual],[paradigma],[o],[algoritmo],[floresta],[aleatório],[seguir],
+DET,N,DET,N,N,ADJ,V,
+Como é feito o treinamento da Floresta Aleatória?
+Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.
+funcionamento
+como,é,feito,o,treinamento,de,a,Floresta,Aleatória,
+[como],[ser],[fazer],[o],[treinamento],[de],[o],[Floresta=Aleatória],
+ADV,V,V,DET,N,PRP,DET,PROP,
+Como a Floresta Aleatória é treinada?
+Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.
+funcionamento
+como,a,Floresta,Aleatória,é,treinada,
+[como],[o],[Floresta=Aleatória],[ser],[treinar],
+ADV,DET,PROP,V,V,
+Como se treina a Floresta Aleatória?
+Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.
+funcionamento
+como,se,treina,a,Floresta,Aleatória,
+[como=se],[treinar],[o],[Floresta=Aleatória],
+KS,V,DET,PROP,
+Como ocorre o treinamento da Floresta Aleatória?
+Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.
+funcionamento
+como,ocorre,o,treinamento,de,a,Floresta,Aleatória,
+[como],[ocorrer],[o],[treinamento],[de],[o],[Floresta=Aleatória],
+ADV,V,DET,N,PRP,DET,PROP,
+O que é feito para treinar a Floresta Aleatória?
+Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.
+funcionamento
+o,que,é,feito,para,treinar,a,Floresta,Aleatória,
+[o=que],[ser],[fazer],[para],[treinar],[o],[Floresta=Aleatória],
+SPEC,V,V,PRP,V,DET,PROP,
+Quem desenvolveu o algoritmo Floresta aleatória?
+Tin Kam Ho
+historia
+quem,desenvolveu,o,algoritmo,floresta,aleatória,
+[quem],[desenvolver],[o],[algoritmo],[floresta],[aleatório],
+SPEC,V,DET,N,N,ADJ,
+Quem criou o algoritmo Floresta aleatória?
+Tin Kam Ho
+historia
+quem,criou,o,algoritmo,floresta,aleatória,
+[quem],[criar],[o],[algoritmo],[floresta],[aleatório],
+SPEC,V,DET,N,N,ADJ,
+Qual o nome de quem elaborou o algoritmo Floresta aleatória?
+Tin Kam Ho
+historia
+qual,o,nome,de,quem,elaborou,o,algoritmo,floresta,aleatória,
+[qual],[o],[nome],[de],[quem],[elaborar],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,SPEC,V,DET,N,N,ADJ,
+Qual o nome do criador do algoritmo random forest?
+Tin Kam Ho
+historia
+qual,o,nome,de,o,criador,de,o,algoritmo,random,forest,
+[qual],[o],[nome],[de],[o],[criador],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,PRP,DET,N,N,N,
+Qual o nome do desenvolvedor do algoritmo Floresta aleatória
+Tin Kam Ho
+historia
+qual,o,nome,de,o,desenvolvedor,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[nome],[de],[o],[desenvolver],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,PRP,DET,N,N,ADJ,
+O que são os hiperparâmetros?
+Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.
+conceitoHiperparametro
+o,que,são,os,hiperparâmetros,
+[o=que],[ser],[o],[parâmetro],
+SPEC,V,DET,N,
+Qual a definição de hiperparâmetros?
+Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.
+conceitoHiperparametro
+qual,a,definição,de,hiperparâmetros,
+[qual],[o],[definição],[de],[parâmetro],
+DET,DET,N,PRP,N,
+O que significa hiperparâmetro?
+Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.
+conceitoHiperparametro
+o,que,significa,hiperparâmetro,
+[o=que],[significar],[parâmetro],
+SPEC,V,N,
+Qual o conceito de hiperparâmetro?
+Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.
+conceitoHiperparametro
+qual,o,conceito,de,hiperparâmetro,
+[qual],[o],[conceito],[de],[parâmetro],
+DET,DET,N,PRP,N,
+Qual o significado de hiperparâmetro?
+Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.
+conceitoHiperparametro
+qual,o,significado,de,hiperparâmetro,
+[qual],[o],[significado],[de],[parâmetro],
+DET,DET,N,PRP,N,
+Quando o algoritmo Floresta aleatória foi criado?
+O método de florestas de decisão aleatórias foi proposto em 1995
+historia
+quando,o,algoritmo,floresta,aleatória,foi,criado,
+[quando],[o],[algoritmo],[floresta],[aleatório],[ser],[criado],
+ADV,DET,N,N,ADJ,V,N,
+Qual a data de criação do algoritmo Floresta aleatória?
+O método de florestas de decisão aleatórias foi proposto em 1995
+historia
+qual,a,data,de,criação,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[data],[de],[criação],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,N,PRP,DET,N,N,ADJ,
+Em que momento o algoritmo Floresta aleatória foi criado?
+O método de florestas de decisão aleatórias foi proposto em 1995
+historia
+em,que,momento,o,algoritmo,floresta,aleatória,foi,criado,
+[em],[que],[momento],[o],[algoritmo],[floresta],[aleatório],[ser],[criado],
+PRP,DET,N,DET,N,N,ADJ,V,N,
+Há quanto tempo o algoritmo Floresta aleatória foi criado?
+O método de florestas de decisão aleatórias foi proposto em 1995
+historia
+há,quanto,tempo,o,algoritmo,floresta,aleatória,foi,criado,
+[há=quanto=tempo],[o],[algoritmo],[floresta],[aleatório],[ser],[criado],
+ADV,DET,N,N,ADJ,V,N,
+Em que data foi criado o algoritmo Floresta aleatória?
+O método de florestas de decisão aleatórias foi proposto em 1995
+historia
+em,que,data,foi,criado,o,algoritmo,floresta,aleatória,
+[em],[que],[data],[ser],[criado],[o],[algoritmo],[floresta],[aleatório],
+PRP,DET,N,V,N,DET,N,N,ADJ,
+Como se evita overfitting no random forest?
+É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.
+overfitting
+como,se,evita,overfitting,em,o,random,forest,
+[como=se],[evitar],[overfitting],[em],[o],[random],[forest],
+KS,V,N,PRP,DET,N,N,
+O que pode ser feito para evitar overfitting no random forest?
+É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.
+overfitting
+o,que,pode,ser,feito,para,evitar,overfitting,em,o,random,forest,
+[o=que],[poder],[ser],[fazer],[para],[evitar],[overfitting],[em],[o],[random],[forest],
+SPEC,V,V,V,PRP,V,N,PRP,DET,N,N,
+Como o overfitting pode ser evitado no random forest?
+É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.
+overfitting
+como,o,overfitting,pode,ser,evitado,em,o,random,forest,
+[como],[o],[overfitting],[poder],[ser],[evitar],[em],[o],[random],[forest],
+ADV,DET,N,V,V,V,PRP,DET,N,N,
+O que pode evitar a ocorrência de overfitting no random forest?
+É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.
+overfitting
+o,que,pode,evitar,a,ocorrência,de,overfitting,em,o,random,forest,
+[o=que],[poder],[evitar],[o],[ocorrência],[de],[overfitting],[em],[o],[random],[forest],
+SPEC,V,V,DET,N,PRP,N,PRP,DET,N,N,
+Como evitar overfitting no random forest?
+É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.
+overfitting
+como,evitar,overfitting,em,o,random,forest,
+[como],[evitar],[overfitting],[em],[o],[random],[forest],
+ADV,V,N,PRP,DET,N,N,
+Qual a diferença entre regressão e classificação?
+Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.
+tarefa
+qual,a,diferença,entre,regressão,e,classificação,
+[qual],[o],[diferença],[entre],[regressão],[e],[classificação],
+DET,DET,N,PRP,N,KC,N,
+O que difere regressão de classificação?
+Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.
+tarefa
+o,que,difere,regressão,de,classificação,
+[o=que],[diferir],[regressão],[de],[classificação],
+SPEC,V,N,PRP,N,
+Quais os contextos de regressão e classificação?
+Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.
+tarefa
+quais,os,contextos,de,regressão,e,classificação,
+[qual],[o],[contexto],[de],[regressão],[e],[classificação],
+DET,DET,N,PRP,N,KC,N,
+O que são problemas de regressão ou classificação?
+Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.
+tarefa
+o,que,são,problemas,de,regressão,ou,classificação,
+[o=que],[ser],[problema],[de],[regressão],[ou],[classificação],
+SPEC,V,N,PRP,N,KC,N,
+Por que regressão e classificação diferem?
+Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.
+tarefa
+por,que,regressão,e,classificação,diferem,
+[por=que],[regressão],[e],[classificação],[diferir],
+ADV,N,KC,N,V,
+O que é aprendizagem supervisionada?
+É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.
+paradigma
+o,que,é,aprendizagem,supervisionada,
+[o=que],[ser],[aprendizagem],[supervisionar],
+SPEC,V,N,V,
+Qual a definição de aprendizagem supervisionada?
+É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.
+paradigma
+qual,a,definição,de,aprendizagem,supervisionada,
+[qual],[o],[definição],[de],[aprendizagem],[supervisionar],
+DET,DET,N,PRP,N,V,
+O que significa aprendizagem supervisionada?
+É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.
+paradigma
+o,que,significa,aprendizagem,supervisionada,
+[o=que],[significar],[aprendizagem],[supervisionar],
+SPEC,V,N,V,
+Qual o conceito de aprendizagem supervisionada?
+É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.
+paradigma
+qual,o,conceito,de,aprendizagem,supervisionada,
+[qual],[o],[conceito],[de],[aprendizagem],[supervisionar],
+DET,DET,N,PRP,N,V,
+Qual o significado de aprendizagem supervisionada?
+É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.
+paradigma
+qual,o,significado,de,aprendizagem,supervisionada,
+[qual],[o],[significado],[de],[aprendizagem],[supervisionar],
+DET,DET,N,PRP,N,V,
+
+
+
+
+
+
+O que é Floresta aleatória?
+random forest é um algoritmo de aprendizagem de máquina
+conceito
+o,que,é,floresta,aleatória,
+[o=que],[ser],[floresta],[aleatório],
+SPEC,V,N,ADJ,
+What is random forest?
+random forest é um algoritmo de aprendizagem de máquina
+conceito
+What,is,random,forest,
+[What],[I],[random],[forest],
+PROP,ADJ,N,N,
+o que é floresta aleatória?
+random forest é um algoritmo de aprendizagem de máquina
+conceito
+o,que,é,floresta,aleatória,
+[o=que],[ser],[floresta],[aleatório],
+SPEC,V,N,ADJ,
+o que seria o floresta aleatória?
+random forest é um algoritmo de aprendizagem de máquina
+conceito
+o,que,seria,o,floresta,aleatória,
+[o=que],[ser],[ele],[florestar],[aleatório],
+SPEC,V,PERS,V,ADJ,
+algoritmo random forest
+random forest é um algoritmo de aprendizagem de máquina
+conceito
+algoritmo,random,forest,
+[algoritmo],[random],[forest],
+N,N,N,
+Como funciona o algoritmo random forest?
+Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.
+funcionamento
+como,funciona,o,algoritmo,random,forest,
+[como],[funcionar],[o],[algoritmo],[random],[forest],
+ADV,V,DET,N,N,N,
+O algoritmo random forest funciona de qual forma?
+Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.
+funcionamento
+o,algoritmo,random,forest,funciona,de,qual,forma,
+[o],[algoritmo],[random],[forest],[funcionar],[de],[qual],[forma],
+DET,N,N,N,V,PRP,DET,N,
+Como é o funcionamento do algoritmo random forest?
+Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.
+funcionamento
+como,é,o,funcionamento,de,o,algoritmo,random,forest,
+[como],[ser],[o],[funcionamento],[de],[o],[algoritmo],[random],[forest],
+ADV,V,DET,N,PRP,DET,N,N,N,
+Como funciona o algoritmo Floresta aleatória?
+Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.
+funcionamento
+como,funciona,o,algoritmo,floresta,aleatória,
+[como],[funcionar],[o],[algoritmo],[floresta],[aleatório],
+ADV,V,DET,N,N,ADJ,
+Como é o funcionamento do algoritmo Floresta aleatorio?
+Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.
+funcionamento
+como,é,o,funcionamento,de,o,algoritmo,Floresta,aleatorio,
+[como],[ser],[o],[funcionamento],[de],[o],[algoritmo],[Floresta],[lei],
+ADV,V,DET,N,PRP,DET,N,PROP,V,
+Por que usar o random forest?
+O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo
+aplicacao
+por,que,usar,o,random,forest,
+[por=que],[usar],[o],[random],[forest],
+ADV,V,DET,N,N,
+para que serve o random forest?
+O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo
+aplicacao
+para,que,serve,o,random,forest,
+[para],[que],[servir],[o],[random],[forest],
+PRP,SPEC,V,DET,N,N,
+quais as aplicações do random forest?
+O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo
+aplicacao
+quais,as,aplicações,de,o,random,forest,
+[qual],[o],[aplicação],[de],[o],[random],[forest],
+DET,DET,N,PRP,DET,N,N,
+random forest e suas aplicações
+O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo
+aplicacao
+random,forest,e,suas,aplicações,
+[random],[forest],[e],[seu],[aplicação],
+N,N,KC,<poss,N,
+pra que usar Floresta aleatória?
+O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo
+aplicacao
+pra,que,usar,floresta,aleatória,
+[para],[que],[usar],[floresta],[aleatório],
+PRP,SPEC,V,N,ADJ,
+Quais as vantagens do algoritmo random forest?
+Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.
+aplicacao
+quais,as,vantagens,de,o,algoritmo,random,forest,
+[qual],[o],[vantagem],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,N,N,
+Quais os benefícios ao utilizar o algoritmo random forest?
+Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.
+aplicacao
+quais,os,benefícios,a,o,utilizar,o,algoritmo,random,forest,
+[qual],[o],[benefício],[a],[o],[utilizar],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,V,DET,N,N,N,
+Qual o proveito de utilizar o algoritmo random forest?
+Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.
+aplicacao
+qual,o,proveito,de,utilizar,o,algoritmo,random,forest,
+[qual],[o],[proveito],[de],[utilizar],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,V,DET,N,N,N,
+Quais as vantagens do algoritmo Floresta aleatória?
+Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.
+aplicacao
+quais,as,vantagens,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[vantagem],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Qual o proveito de utilizar o algoritmo Floresta aleatória?
+Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.
+aplicacao
+qual,o,proveito,de,utilizar,o,algoritmo,floresta,aleatória,
+[qual],[o],[proveito],[de],[utilizar],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,V,DET,N,N,ADJ,
+Quais as desvantagens do algoritmo random forest?
+a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. 
+aplicacao
+quais,as,desvantagens,de,o,algoritmo,random,forest,
+[qual],[o],[desvantagem],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,N,N,
+Quais os prejuízos de utilizar o algoritmo random forest?
+a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. 
+aplicacao
+quais,os,prejuízos,de,utilizar,o,algoritmo,random,forest,
+[qual],[o],[prejuízo],[de],[utilizar],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,V,DET,N,N,N,
+Quais as limitações do algoritmo random forest?
+a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. 
+aplicacao
+quais,as,limitações,de,o,algoritmo,random,forest,
+[qual],[o],[limitação],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,N,N,
+Quais as limitações do algoritmo Floresta aleatória?
+a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. 
+aplicacao
+quais,as,limitações,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[limitação],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Quais as desvantagens do algoritmo Floresta aleatória?
+a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. 
+aplicacao
+quais,as,desvantagens,de,o,algoritmo,floresta,aleatória,
+[qual],[o],[desvantagem],[de],[o],[algoritmo],[floresta],[aleatório],
+DET,DET,N,PRP,DET,N,N,ADJ,
+Quem criou o random forest?
+ Tin Kam Ho
+historia
+quem,criou,o,random,forest,
+[quem],[criar],[o],[random],[forest],
+SPEC,V,DET,N,N,
+Quem desenvolveu o random forest?
+ Tin Kam Ho
+historia
+quem,desenvolveu,o,random,forest,
+[quem],[desenvolver],[o],[random],[forest],
+SPEC,V,DET,N,N,
+Nome criador random forest
+ Tin Kam Ho
+historia
+nome,criador,random,forest,
+[nome],[criador],[random],[forest],
+N,ADJ,N,N,
+Quem criou florest aleatória
+ Tin Kam Ho
+historia
+quem,criou,florest,aleatória,
+[quem],[criar],[florest],[aleatório],
+SPEC,V,N,ADJ,
+Nome criador floresta aleatória
+ Tin Kam Ho
+historia
+nome,criador,floresta,aleatória,
+[nome],[criador],[florestar],[aleatório],
+N,ADJ,V,ADJ,
+Data criação random forest
+1995.0
+historia
+data,criação,random,forest,
+[data],[criação],[random],[forest],
+N,N,N,N,
+ano criação random forest
+1995.0
+historia
+ano,criação,random,forest,
+[ano],[criação],[random],[forest],
+N,N,N,N,
+Data criação floresta aleatória
+1995.0
+historia
+data,criação,floresta,aleatória,
+[data],[criação],[florestar],[aleatório],
+N,N,V,ADJ,
+ano criação floresta aleatória
+1995.0
+historia
+ano,criação,floresta,aleatória,
+[ano],[criação],[florestar],[aleatório],
+N,N,V,ADJ,
+Quando foi criado o random forest?
+1995.0
+historia
+quando,foi,criado,o,random,forest,
+[quando],[ser],[criado],[o],[random],[forest],
+ADV,V,N,DET,N,N,
+Floresta aleatória usa árvore de decisão?
+Sim, o algoritmo random forest utiliza árvore de decisão
+classificacao
+floresta,aleatória,usa,árvore,de,decisão,
+[floresta],[aleatório],[usar],[árvore],[de],[decisão],
+N,ADJ,V,N,PRP,N,
+random forest usa árvore de decisão?
+Sim, o algoritmo random forest utiliza árvore de decisão
+classificacao
+random,forest,usa,árvore,de,decisão,
+[random],[forest],[usar],[árvore],[de],[decisão],
+N,N,V,N,PRP,N,
+random forest utiliza árvore de decisão?
+Sim, o algoritmo random forest utiliza árvore de decisão
+classificacao
+random,forest,utiliza,árvore,de,decisão,
+[random],[forest],[utilizar],[árvore],[de],[decisão],
+N,N,V,N,PRP,N,
+floresta aleatória usa árvores de decisão?
+Sim, o algoritmo random forest utiliza árvore de decisão
+classificacao
+floresta,aleatória,usa,árvores,de,decisão,
+[floresta],[aleatório],[usar],[árvore],[de],[decisão],
+N,ADJ,V,N,PRP,N,
+random forest e árvore de decisão
+Sim, o algoritmo random forest utiliza árvore de decisão
+classificacao
+random,forest,e,árvore,de,decisão,
+[random],[forest],[e],[árvore],[de],[decisão],
+N,N,KC,N,PRP,N,
+o que é árvore de decisão?
+em uma árvore de decisão cada nodo interno representa um teste em um atributo
+conceito
+o,que,é,árvore,de,decisão,
+[o=que],[ser],[árvore],[de],[decisão],
+SPEC,V,N,PRP,N,
+o que é decision tree?
+em uma árvore de decisão cada nodo interno representa um teste em um atributo
+conceito
+o,que,é,decision,tree,
+[o=que],[ser],[decision],[treer],
+SPEC,V,N,V,
+O que é Árvore de Decisão?
+em uma árvore de decisão cada nodo interno representa um teste em um atributo
+conceito
+o,que,é,árvore,de,Decisão,
+[o=que],[ser],[Árvore=de=Decisão],
+SPEC,V,PROP,
+árvore de decisão
+em uma árvore de decisão cada nodo interno representa um teste em um atributo
+conceito
+árvore,de,decisão,
+[árvore],[de],[decisão],
+N,PRP,N,
+o que seria uma árvore de decisão?
+em uma árvore de decisão cada nodo interno representa um teste em um atributo
+conceito
+o,que,seria,uma,árvore,de,decisão,
+[o=que],[ser],[um],[árvore],[de],[decisão],
+SPEC,V,DET,N,PRP,N,
+Qual a diferença entre Floresta aleatória e arvore de Decisão?
+Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.
+comparacao
+qual,a,diferença,entre,floresta,aleatória,e,arvore,de,Decisão,
+[qual],[o],[diferença],[entre],[floresta],[aleatório],[e],[arvorar],[de],[Decisão],
+DET,DET,N,PRP,N,ADJ,KC,V,PRP,PROP,
+Quais as distinções entre Floresta aleatória e arvore de Decisão?
+Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.
+comparacao
+quais,as,distinções,entre,floresta,aleatória,e,arvore,de,Decisão,
+[qual],[o],[distinção],[entre],[floresta],[aleatório],[e],[arvorar],[de],[Decisão],
+DET,DET,N,PRP,N,ADJ,KC,V,PRP,PROP,
+Qual as diferenças entre random forest e Decision Tree?
+Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.
+comparacao
+qual,as,diferenças,entre,random,forest,e,Decision,Tree,
+[qual],[o],[diferença],[entre],[random],[forest],[e],[Decision=Tree],
+DET,DET,N,PRP,N,N,KC,PROP,
+Diferença entre Floresta aleatória e arvore de Decisão?
+Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.
+comparacao
+diferença,entre,floresta,aleatória,e,arvore,de,Decisão,
+[diferença],[entre],[floresta],[aleatório],[e],[arvorar],[de],[Decisão],
+N,PRP,N,ADJ,KC,V,PRP,PROP,
+Qual a diferença entre random forest e arvore de Decisão?
+Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.
+comparacao
+qual,a,diferença,entre,random,forest,e,arvore,de,Decisão,
+[qual],[o],[diferença],[entre],[random],[forest],[e],[arvorar],[de],[Decisão],
+DET,DET,N,PRP,N,N,KC,V,PRP,PROP,
+quais os principais hiperparametros para aumentar o poder preditivo?
+Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf
+parametro
+quais,os,principais,hiperparametros,hipárparametros,para,aumentar,o,poder,preditivo,
+[qual],[o],[principal],[parámetro],[para],[aumentar],[o],[poder],[preditivo],
+DET,DET,ADJ,N,PRP,V,DET,N,ADJ,
+quais os principais hiperparametros utilizados para aumentar o poder preditivo?
+Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf
+parametro
+quais,os,principais,hiperparametros,hipárparametros,utilizados,para,aumentar,o,poder,preditivo,
+[qual],[o],[principal],[parámetro],[utilizar],[para],[aumentar],[o],[poder],[preditivo],
+DET,DET,ADJ,N,V,PRP,V,DET,N,ADJ,
+principais hiperparametros para aumentar o poder preditivo
+Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf
+parametro
+principais,hiperparametros,hipárparametros,para,aumentar,o,poder,preditivo,
+[principal],[parámetro],[para],[aumentar],[o],[poder],[preditivo],
+ADJ,N,PRP,V,DET,N,ADJ,
+quais os principais hiperparametros para aumentar o poder preditivo na random forest?
+Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf
+parametro
+quais,os,principais,hiperparametros,hipárparametros,para,aumentar,o,poder,preditivo,em,a,random,forest,
+[qual],[o],[principal],[parámetro],[para],[aumentar],[o],[poder],[preditivo],[em],[o],[random],[forest],
+DET,DET,ADJ,N,PRP,V,DET,N,ADJ,PRP,DET,N,N,
+quais os principais hiperparametros utilizados para aumentar o poder preditivo na random forest?
+Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf
+parametro
+quais,os,principais,hiperparametros,hipárparametros,utilizados,para,aumentar,o,poder,preditivo,em,a,random,forest,
+[qual],[o],[principal],[parámetro],[utilizar],[para],[aumentar],[o],[poder],[preditivo],[em],[o],[random],[forest],
+DET,DET,ADJ,N,V,PRP,V,DET,N,ADJ,PRP,DET,N,N,
+quais os principais hiperparametros para aumentar a velocidade do modelo?
+Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score
+parametro
+quais,os,principais,hiperparametros,hipárparametros,para,aumentar,a,velocidade,de,o,modelo,
+[qual],[o],[principal],[parámetro],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],
+DET,DET,ADJ,N,PRP,V,DET,N,PRP,DET,N,
+quais os principais hiperparametros utilizados para aumentar a velocidade do modelo?
+Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score
+parametro
+quais,os,principais,hiperparametros,hipárparametros,utilizados,para,aumentar,a,velocidade,de,o,modelo,
+[qual],[o],[principal],[parámetro],[utilizar],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],
+DET,DET,ADJ,N,V,PRP,V,DET,N,PRP,DET,N,
+principais hiperparametros para aumentar a velocidade do modelo
+Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score
+parametro
+principais,hiperparametros,hipárparametros,para,aumentar,a,velocidade,de,o,modelo,
+[principal],[parámetro],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],
+ADJ,N,PRP,V,DET,N,PRP,DET,N,
+quais os principais hiperparametros para aumentar a velocidade do modelo na random forest?
+Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score
+parametro
+quais,os,principais,hiperparametros,hipárparametros,para,aumentar,a,velocidade,de,o,modelo,em,a,random,forest,
+[qual],[o],[principal],[parámetro],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],[em],[o],[random],[forest],
+DET,DET,ADJ,N,PRP,V,DET,N,PRP,DET,N,PRP,DET,N,N,
+quais os principais hiperparametros utilizados para aumentar a velocidade do modelo na random forest?
+Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score
+parametro
+quais,os,principais,hiperparametros,hipárparametros,utilizados,para,aumentar,a,velocidade,de,o,modelo,em,a,random,forest,
+[qual],[o],[principal],[parámetro],[utilizar],[para],[aumentar],[o],[velocidade],[de],[o],[modelo],[em],[o],[random],[forest],
+DET,DET,ADJ,N,V,PRP,V,DET,N,PRP,DET,N,PRP,DET,N,N,
+Como é construída uma floresta aleatória?
+Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging
+funcionamento
+como,é,construída,uma,floresta,aleatória,
+[como],[ser],[construir],[um],[floresta],[aleatório],
+ADV,V,V,DET,N,ADJ,
+Como construir uma floresta aleatória?
+Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging
+funcionamento
+como,construir,uma,floresta,aleatória,
+[como],[construir],[um],[floresta],[aleatório],
+ADV,V,DET,N,ADJ,
+Como construir uma random forest?
+Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging
+funcionamento
+como,construir,uma,random,forest,
+[como],[construir],[um],[random],[forest],
+ADV,V,DET,N,N,
+Como é construída uma random forest?
+Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging
+funcionamento
+como,é,construída,uma,random,forest,
+[como],[ser],[construir],[um],[random],[forest],
+ADV,V,V,DET,N,N,
+Como fazer para construir floresta aleatória?
+Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging
+funcionamento
+como,fazer,para,construir,floresta,aleatória,
+[como],[fazer],[para],[construir],[floresta],[aleatório],
+ADV,V,PRP,V,N,ADJ,
+Em que areas a floresta aleatória é utilizada?
+O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.
+aplicacao
+em,que,areas,a,floresta,aleatória,é,utilizada,
+[em],[que],[área],[o],[floresta],[aleatório],[ser],[utilizar],
+PRP,DET,N,DET,N,ADJ,V,V,
+Que areas utilizam o algoritmo Floresta aleatória?
+O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.
+aplicacao
+que,areas,utilizam,o,algoritmo,floresta,aleatória,
+[que],[área],[utilizar],[o],[algoritmo],[floresta],[aleatório],
+DET,N,V,DET,N,N,ADJ,
+Quais areas utilizam o algoritmo random forest?
+O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.
+aplicacao
+quais,areas,utilizam,o,algoritmo,random,forest,
+[qual],[área],[utilizar],[o],[algoritmo],[random],[forest],
+DET,N,V,DET,N,N,N,
+Em quais areas o algoritmo random forest é utilizado?
+O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.
+aplicacao
+em,quais,areas,o,algoritmo,random,forest,é,utilizado,
+[em],[qual],[área],[o],[algoritmo],[random],[forest],[ser],[utilizar],
+PRP,DET,N,DET,N,N,N,V,V,
+O random forest é utilizado em quais areas?
+O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.
+aplicacao
+o,random,forest,é,utilizado,em,quais,areas,
+[o],[random],[forest],[ser],[utilizar],[em],[qual],[área],
+DET,N,N,V,V,PRP,DET,N,
+Quais as caracteristicas do algoritmo random forest?
+Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.
+caracteristica
+quais,as,caracteristicas,de,o,algoritmo,random,forest,
+[qual],[o],[caractere],[de],[o],[algoritmo],[random],[forest],
+DET,DET,ADJ,PRP,DET,N,N,N,
+Quais as caracteristicas do random forest?
+Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.
+caracteristica
+quais,as,caracteristicas,de,o,random,forest,
+[qual],[o],[caractere],[de],[o],[random],[forest],
+DET,DET,ADJ,PRP,DET,N,N,
+Quais as caracteristicas da floresta aleatório?
+Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.
+caracteristica
+quais,as,caracteristicas,de,a,floresta,aleatório,
+[qual],[o],[caractere],[de],[o],[floresta],[aleatório],
+DET,DET,ADJ,PRP,DET,N,ADJ,
+random forest tem quais caracteristicas?
+Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.
+caracteristica
+random,forest,tem,quais,caracteristicas,
+[random],[forest],[ter],[qual],[caractere],
+N,N,V,DET,ADJ,
+Floresta aleatória tem quais caracteristicas?
+Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.
+caracteristica
+floresta,aleatória,tem,quais,caracteristicas,
+[floresta],[aleatório],[ter],[qual],[caractere],
+N,ADJ,V,DET,ADJ,
+Como é utilizada o random forest no sistema financeiro?
+ele é utilizado para determinar o desempenho futuro de uma ação.
+aplicacao
+como,é,utilizada,o,random,forest,em,o,sistema,financeiro,
+[como],[ser],[utilizar],[o],[random],[forest],[em],[o],[sistema],[financeiro],
+ADV,V,V,DET,N,N,PRP,DET,N,ADJ,
+Como o algoritmo random forest é utilizado no sistema financeiro?
+ele é utilizado para determinar o desempenho futuro de uma ação.
+aplicacao
+como,o,algoritmo,random,forest,é,utilizado,em,o,sistema,financeiro,
+[como],[o],[algoritmo],[random],[forest],[ser],[utilizar],[em],[o],[sistema],[financeiro],
+ADV,DET,N,N,N,V,V,PRP,DET,N,ADJ,
+random forest é utilizada como no sistema financeiro
+ele é utilizado para determinar o desempenho futuro de uma ação.
+aplicacao
+random,forest,é,utilizada,como,em,o,sistema,financeiro,
+[random],[forest],[ser],[utilizar],[como],[em],[o],[sistema],[financeiro],
+N,N,V,V,ADV,PRP,DET,N,ADJ,
+Como o algoritmo Floresta aleatória é utilizado no sistema financeiro?
+ele é utilizado para determinar o desempenho futuro de uma ação.
+aplicacao
+como,o,algoritmo,floresta,aleatória,é,utilizado,em,o,sistema,financeiro,
+[como],[o],[algoritmo],[floresta],[aleatório],[ser],[utilizar],[em],[o],[sistema],[financeiro],
+ADV,DET,N,N,ADJ,V,V,PRP,DET,N,ADJ,
+random forest no sistema financeiro
+ele é utilizado para determinar o desempenho futuro de uma ação.
+aplicacao
+random,forest,em,o,sistema,financeiro,
+[random],[forest],[em],[o],[sistema],[financeiro],
+N,N,PRP,DET,N,ADJ,
+Como é utilizado o random forest na área da saúde?
+é utilizado para analisar o histórico médico de um paciente para identificar doenças
+aplicacao
+como,é,utilizado,o,random,forest,em,a,área,de,a,saúde,
+[como],[ser],[utilizar],[o],[random],[forest],[em],[o],[área],[de],[o],[saúde],
+ADV,V,V,DET,N,N,PRP,DET,N,PRP,DET,N,
+Como é utilizado o random forest na área médica?
+é utilizado para analisar o histórico médico de um paciente para identificar doenças
+aplicacao
+como,é,utilizado,o,random,forest,em,a,área,médica,
+[como],[ser],[utilizar],[o],[random],[forest],[em],[o],[área],[médico],
+ADV,V,V,DET,N,N,PRP,DET,N,ADJ,
+random forest é utilizado como na área da saúde?
+é utilizado para analisar o histórico médico de um paciente para identificar doenças
+aplicacao
+random,forest,é,utilizado,como,em,a,área,de,a,saúde,
+[random],[forest],[ser],[utilizar],[como],[em],[o],[área],[de],[o],[saúde],
+N,N,V,V,ADV,PRP,DET,N,PRP,DET,N,
+random forest é utilizado como na área médica?
+é utilizado para analisar o histórico médico de um paciente para identificar doenças
+aplicacao
+random,forest,é,utilizado,como,em,a,área,médica,
+[random],[forest],[ser],[utilizar],[como],[em],[o],[área],[médico],
+N,N,V,V,ADV,PRP,DET,N,ADJ,
+random forest na área da saúde
+é utilizado para analisar o histórico médico de um paciente para identificar doenças
+aplicacao
+random,forest,em,a,área,de,a,saúde,
+[random],[forest],[em],[o],[área],[de],[o],[saúde],
+N,N,PRP,DET,N,PRP,DET,N,
+Como é utilizado o random forest no comércio eletrônico ?
+é utilizado para determinar se um cliente irá gostar do produto ou não.
+aplicacao
+como,é,utilizado,o,random,forest,em,o,comércio,eletrônico,
+[como],[ser],[utilizar],[o],[random],[forest],[em],[o],[comércio],[eletrônico],
+ADV,V,V,DET,N,N,PRP,DET,N,ADJ,
+Como é utilizado o random forest no e-commerce?
+é utilizado para determinar se um cliente irá gostar do produto ou não.
+aplicacao
+como,é,utilizado,o,random,forest,em,o,e-commerce,commêrce,
+[como],[ser],[utilizar],[o],[random],[forest],[em],[o],[mercê],
+ADV,V,V,DET,N,N,PRP,DET,N,
+Como o algoritmo random forest é utilizado no e-commerce?
+é utilizado para determinar se um cliente irá gostar do produto ou não.
+aplicacao
+como,o,algoritmo,random,forest,é,utilizado,em,o,e-commerce,commêrce,
+[como],[o],[algoritmo],[random],[forest],[ser],[utilizar],[em],[o],[mercê],
+ADV,DET,N,N,N,V,V,PRP,DET,N,
+random forest é utilizado como no e-commerce?
+é utilizado para determinar se um cliente irá gostar do produto ou não.
+aplicacao
+random,forest,é,utilizado,como,em,o,e-commerce,commêrce,
+[random],[forest],[ser],[utilizar],[como],[em],[o],[mercê],
+N,N,V,V,ADV,PRP,DET,N,
+random forest no comércio eletrônico
+é utilizado para determinar se um cliente irá gostar do produto ou não.
+aplicacao
+random,forest,em,o,comércio,eletrônico,
+[random],[forest],[em],[o],[comércio],[eletrônico],
+N,N,PRP,DET,N,ADJ,
+Como é utilizado o random forest no sistema bancário?
+é utilizado para detectar fraudes de clientes que querem lesar o banco.
+aplicacao
+como,é,utilizado,o,random,forest,em,o,sistema,bancário,
+[como],[ser],[utilizar],[o],[random],[forest],[em],[o],[sistema],[bancário],
+ADV,V,V,DET,N,N,PRP,DET,N,ADJ,
+Como usam o random forest no sistema bancário?
+é utilizado para detectar fraudes de clientes que querem lesar o banco.
+aplicacao
+como,usam,o,random,forest,em,o,sistema,bancário,
+[como],[usar],[o],[random],[forest],[em],[o],[sistema],[bancário],
+ADV,V,DET,N,N,PRP,DET,N,ADJ,
+Como os bancos usam o random forest?
+é utilizado para detectar fraudes de clientes que querem lesar o banco.
+aplicacao
+como,os,bancos,usam,o,random,forest,
+[como],[o],[banco],[usar],[o],[random],[forest],
+ADV,DET,N,V,DET,N,N,
+Como os bancos utilizam o random forest?
+é utilizado para detectar fraudes de clientes que querem lesar o banco.
+aplicacao
+como,os,bancos,utilizam,o,random,forest,
+[como],[o],[banco],[utilizar],[o],[random],[forest],
+ADV,DET,N,V,DET,N,N,
+random forest no sistema bancário?
+é utilizado para detectar fraudes de clientes que querem lesar o banco.
+aplicacao
+random,forest,em,o,sistema,bancário,
+[random],[forest],[em],[o],[sistema],[bancário],
+N,N,PRP,DET,N,ADJ,
+O algoritmo random forest é I.a.?
+Sim, é um algoritmo de inteligência artificial
+definicao
+o,algoritmo,random,forest,é,I.a,
+[o],[algoritmo],[random],[forest],[ser],[I.a],
+DET,N,N,N,V,PROP,
+O algoritmo Floresta aleatória é I.a?
+Sim, é um algoritmo de inteligência artificial
+definicao
+o,algoritmo,floresta,aleatória,é,I.a,
+[o],[algoritmo],[floresta],[aleatório],[ser],[I.a],
+DET,N,N,ADJ,V,PROP,
+Podemos considerar o algoritmo random forest como I.a.?
+Sim, é um algoritmo de inteligência artificial
+definicao
+podemos,considerar,o,algoritmo,random,forest,como,I.a,
+[poder],[considerar],[o],[algoritmo],[random],[forest],[como],[I.a],
+V,V,DET,N,N,N,ADV,PROP,
+O algoritmo random forest é inteligência articial?
+Sim, é um algoritmo de inteligência artificial
+definicao
+o,algoritmo,random,forest,é,inteligência,articial,
+[o],[algoritmo],[random],[forest],[ser],[inteligência],[arte],
+DET,N,N,N,V,N,N,
+floresta aleatória é inteligência artificial?
+Sim, é um algoritmo de inteligência artificial
+definicao
+floresta,aleatória,é,inteligência,artificial,
+[floresta],[aleatório],[ser],[inteligência],[artificial],
+N,ADJ,V,N,ADJ,
+
+
+
+
+
+
+Qual o objetivo do algoritmo random forest?
+Treinar um modelo para regressão ou classificação
+proposito
+qual,o,objetivo,de,o,algoritmo,random,forest,
+[qual],[o],[objetivo],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,N,N,
+O que o algoritmo random forest busca fazer?
+Treinar um modelo para regressão ou classificação
+proposito
+o,que,o,algoritmo,random,forest,busca,fazer,
+[o=que],[o],[algoritmo],[random],[forest],[buscar],[fazer],
+SPEC,DET,N,N,N,V,V,
+Qual o propósito do algoritmo random forest?
+Treinar um modelo para regressão ou classificação
+proposito
+qual,o,propósito,de,o,algoritmo,random,forest,
+[qual],[o],[propósito],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,N,N,
+Qual a meta do algoritmo random forest?
+Treinar um modelo para regressão ou classificação
+proposito
+qual,a,meta,de,o,algoritmo,random,forest,
+[qual],[o],[meta],[de],[o],[algoritmo],[random],[forest],
+DET,DET,N,PRP,DET,N,N,N,
+Para que é designado o algoritmo random forest?
+Treinar um modelo para regressão ou classificação
+proposito
+para,que,é,designado,o,algoritmo,random,forest,
+[para],[que],[ser],[designar],[o],[algoritmo],[random],[forest],
+PRP,SPEC,V,V,DET,N,N,N,
+
+
+
+
+
+
+É um algoritmo de aprendizado supervisionado ou não supervisionado?
+Supervisionado, pois deve-se fornecer dados pré-processados ao algoritmo para que ele construa um modelo capaz de fazer predições.
+conceito
+é,um,algoritmo,de,aprendizado,supervisionado,ou,não,supervisionado,
+[ser],[um],[algoritmo],[de],[aprendizado],[supervisionar],[ou],[não],[supervisionar],
+V,DET,N,PRP,N,V,KC,ADV,V,
+O algoritmo é supervisionado ou não supervisionado?
+Supervisionado, pois deve-se fornecer dados pré-processados ao algoritmo para que ele construa um modelo capaz de fazer predições.
+conceito
+o,algoritmo,é,supervisionado,ou,não,supervisionado,
+[o],[algoritmo],[ser],[supervisionar],[ou],[não],[supervisionar],
+DET,N,V,V,KC,ADV,V,
+O random forest é um algoritmo supervisionado ou não supervisionado?
+Supervisionado, pois deve-se fornecer dados pré-processados ao algoritmo para que ele construa um modelo capaz de fazer predições.
+conceito
+o,random,forest,é,um,algoritmo,supervisionado,ou,não,supervisionado,
+[o],[random],[forest],[ser],[um],[algoritmo],[supervisionar],[ou],[não],[supervisionar],
+DET,N,N,V,DET,N,V,KC,ADV,V,
+O algoritmo random forest é supervisionado ou não supervisionado?
+Supervisionado, pois deve-se fornecer dados pré-processados ao algoritmo para que ele construa um modelo capaz de fazer predições.
+conceito
+o,algoritmo,random,forest,é,supervisionado,ou,não,supervisionado,
+[o],[algoritmo],[random],[forest],[ser],[supervisionar],[ou],[não],[supervisionar],
+DET,N,N,N,V,V,KC,ADV,V,
+Como se classifica o algoritmo random forest?
+Supervisionado, pois deve-se fornecer dados pré-processados ao algoritmo para que ele construa um modelo capaz de fazer predições.
+conceito
+como,se,classifica,o,algoritmo,random,forest,
+[como=se],[classificar],[o],[algoritmo],[random],[forest],
+KS,V,DET,N,N,N,
+
+
+
+
+
+
+Qual estrutura de dados é utilizada primordialmente?
+Árvores, mais especificamente, o algoritmo utiliza um conjunto de várias árvores de decisão para formar o modelo.
+funcionamento
+qual,estrutura,de,dados,é,utilizada,primordialmente,
+[qual],[estrutura],[de],[dado],[ser],[utilizar],[primordial],
+DET,N,PRP,N,V,V,ADV,
+Qual é sua principal estrutura de dados?
+Árvores, mais especificamente, o algoritmo utiliza um conjunto de várias árvores de decisão para formar o modelo.
+funcionamento
+qual,é,sua,principal,estrutura,de,dados,
+[qual],[ser],[seu],[principal],[estrutura],[de],[dado],
+DET,V,<poss,ADJ,N,PRP,N,
+Qual estrutura de dados é a base do random forest?
+Árvores, mais especificamente, o algoritmo utiliza um conjunto de várias árvores de decisão para formar o modelo.
+funcionamento
+qual,estrutura,de,dados,é,a,base,de,o,random,forest,
+[qual],[estrutura],[de],[dado],[ser],[o],[base],[de],[o],[random],[forest],
+DET,N,PRP,N,V,DET,N,PRP,DET,N,N,
+Qual é a estrutura de dados primordial do Floresta aleatória?
+Árvores, mais especificamente, o algoritmo utiliza um conjunto de várias árvores de decisão para formar o modelo.
+funcionamento
+qual,é,a,estrutura,de,dados,primordial,de,o,floresta,aleatória,
+[qual],[ser],[o],[estrutura],[de],[dado],[primordial],[de],[o],[floresta],[aleatório],
+DET,V,DET,N,PRP,N,ADJ,PRP,DET,N,ADJ,
+Qual é a estrutura de dados primordial utilizada no algoritmo?
+Árvores, mais especificamente, o algoritmo utiliza um conjunto de várias árvores de decisão para formar o modelo.
+funcionamento
+qual,é,a,estrutura,de,dados,primordial,utilizada,em,o,algoritmo,
+[qual],[ser],[o],[estrutura],[de],[dado],[primordial],[utilizar],[em],[o],[algoritmo],
+DET,V,DET,N,PRP,N,ADJ,V,PRP,DET,N,
+
+
+
+
+
+
+Qual a diferença de random forest para decision tree?
+O random forest em si é formado por um conjunto de decision trees, além disso, ele seleciona as features e observações de cada árvore aleatoriamente e costuma evitar overfitting, um dos problemas de decision trees.
+comparacao
+qual,a,diferença,de,random,forest,para,decision,tree,
+[qual],[o],[diferença],[de],[random],[forest],[para],[decision],[treer],
+DET,DET,N,PRP,N,N,PRP,N,V,
+Quais as dissemelhanças entre random forest e Decision Tree?
+O random forest em si é formado por um conjunto de decision trees, além disso, ele seleciona as features e observações de cada árvore aleatoriamente e costuma evitar overfitting, um dos problemas de decision trees.
+comparacao
+quais,as,dissemelhanças,entre,random,forest,e,Decision,Tree,
+[qual],[o],[dissemelhança],[entre],[random],[forest],[e],[Decision=Tree],
+DET,DET,N,PRP,N,N,KC,PROP,
+Quais as diferenças entre o Floresta aleatória e Decision Tree?
+O random forest em si é formado por um conjunto de decision trees, além disso, ele seleciona as features e observações de cada árvore aleatoriamente e costuma evitar overfitting, um dos problemas de decision trees.
+comparacao
+quais,as,diferenças,entre,o,floresta,aleatória,e,Decision,Tree,
+[qual],[o],[diferença],[entre],[o],[floresta],[aleatório],[e],[Decision=Tree],
+DET,DET,N,PRP,DET,N,ADJ,KC,PROP,
+O que distingue o random forest da Decision Tree?
+O random forest em si é formado por um conjunto de decision trees, além disso, ele seleciona as features e observações de cada árvore aleatoriamente e costuma evitar overfitting, um dos problemas de decision trees.
+comparacao
+o,que,distingue,o,random,forest,de,a,Decision,Tree,
+[o=que],[distinguir],[o],[random],[forest],[de],[o],[Decision=Tree],
+SPEC,V,DET,N,N,PRP,DET,PROP,
+Em que o Floresta aleatória e a Árvore de Decisão são diferentes?
+O random forest em si é formado por um conjunto de decision trees, além disso, ele seleciona as features e observações de cada árvore aleatoriamente e costuma evitar overfitting, um dos problemas de decision trees.
+comparacao
+em,que,o,floresta,aleatória,e,a,árvore,de,Decisão,são,diferentes,
+[em],[que],[o],[floresta],[aleatório],[e],[o],[Árvore=de=Decisão],[ser],[diferente],
+PRP,SPEC,DET,N,ADJ,KC,DET,PROP,V,ADJ,
+
+
+
+
+
+
+Cite algumas vantagens do algoritmo random forest
+Pode ser usado para Feature Engineering, também é bom em evitar overfitting
+vantagem
+cite,algumas,vantagens,de,o,algoritmo,random,forest,
+[citar],[algum],[vantagem],[de],[o],[algoritmo],[random],[forest],
+V,DET,N,PRP,DET,N,N,N,
+Quais as vantagens do random forest?
+Pode ser usado para Feature Engineering, também é bom em evitar overfitting
+vantagem
+quais,as,vantagens,de,o,random,forest,
+[qual],[o],[vantagem],[de],[o],[random],[forest],
+DET,DET,N,PRP,DET,N,N,
+Por que vale a pena usar o random forest?
+Pode ser usado para Feature Engineering, também é bom em evitar overfitting
+vantagem
+por,que,vale,a,pena,usar,o,random,forest,
+[por=que],[valer],[o],[pena],[usar],[o],[random],[forest],
+ADV,V,DET,N,V,DET,N,N,
+Comente as vantagens do algoritmo random forest
+Pode ser usado para Feature Engineering, também é bom em evitar overfitting
+vantagem
+comente,as,vantagens,de,o,algoritmo,random,forest,
+[comentar],[o],[vantagem],[de],[o],[algoritmo],[random],[forest],
+V,DET,N,PRP,DET,N,N,N,
