@@ -24,15 +24,16 @@ public class Storage {
 	}
 
 	public void completeNormalization() {
-		//especificNorma();
+		// especificNorma();
 		storage.remove(0);
 		int current = 0;
 		for (StorageObj storageObj : storage) {
 			System.out.println("ATUAL: " + current);
 			System.out.println("pergunta: " + storageObj.getQuesion());
-			crawler.normalizating(storageObj);
-			storageObj.myToString();
-			storeData(storageObj);
+			if (crawler.normalizating(storageObj, 0) != null) {
+				storageObj.myToString();
+				storeData(storageObj);
+			}
 			current++;
 		}
 
@@ -44,9 +45,11 @@ public class Storage {
 		for (int i = 0; i < 10; i++) {
 			System.out.println("ATUAL: " + current);
 			System.out.println("pergunta: " + storage.get(current).getQuesion());
-			crawler.normalizating(storage.get(current));
-			storage.get(current).myToString();
-			storeData(storage.get(current));
+			if (crawler.normalizating(storage.get(current), 0) != null) {
+				crawler.normalizating(storage.get(current), 0);
+				storage.get(current).myToString();
+				storeData(storage.get(current));
+			}
 			current++;
 		}
 

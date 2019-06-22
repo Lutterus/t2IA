@@ -24,11 +24,28 @@ public class Crawler {
 		configureTextField();
 	}
 
-	public StorageObj normalizating(StorageObj storageObj) {
+	public StorageObj normalizating(StorageObj storageObj, int count) {
+		StorageObj temp;
 		typeText(storageObj.getQuesion());
 		clickButton();
-		getResult(storageObj);
-		return storageObj;
+		temp = getResult(storageObj);
+
+		if (temp != null) {
+			return temp;
+		} else {
+			System.out.println("erro ao construir a normalização... tentando novamente");
+			for (int i = 0; i < 5; i++) {
+				System.out.println("tentativa " + (i + 1) + " de normalização");
+				typeText(storageObj.getQuesion());
+				clickButton();
+				temp = getResult(storageObj);
+				if (temp != null) {
+					return temp;
+				}
+			}
+			return null;
+		}
+
 	}
 
 	private void configureTextField() {
@@ -61,21 +78,27 @@ public class Crawler {
 
 	private StorageObj getResult(StorageObj storageObj) {
 		List<HtmlTableDataCell> profileDivLinks = pageButton.getByXPath("//tr//td");
-
 		HtmlTableDataCell area = profileDivLinks.get(12);
 		String echo = area.asText();
 		String[] str_array = echo.split("\n");
 
+		for (int i = 0; i < str_array.length; i++) {
+			if (str_array[i].contains("The requested string:")) {
+				return null;
+			}
+		}
+
 		for (int i = 8; i < str_array.length - 1; i++) {
 			String[] word = str_array[i].split(" ");
 			System.out.println("nova palavra");
+
 			for (int j = 0; j < word.length; j++) {
 				System.out.println(word[j]);
 			}
 			if (word.length > 3) {
 				int position = 0;
 				while (word[position].contains("[") == false) {
-					if(word[position].contentEquals("ALT")==false && word[position].contains("xx")==false) {
+					if (word[position].contentEquals("ALT") == false && word[position].contains("xx") == false) {
 						storageObj.addSplitQuestion(word[position]);
 					}
 					position++;
