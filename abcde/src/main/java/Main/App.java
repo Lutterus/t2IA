@@ -75,7 +75,7 @@ public class App {
 				&& input.contentEquals("0") == false) {
 			System.out.println("0 - Sair");
 			System.out.println(
-					"1 - Para carregar do arquivo storage.xlxs e refazer a normatização completa (demorará +10 min)");
+					"1 - Para carregar do arquivo storage.xlsx e refazer a normatização completa (demorará +10 min)");
 			System.out.println("2 - Para carregar do arquivo storage.txt e usar a normatização feita pela ultima vez");
 			input = scan.next();
 		}
