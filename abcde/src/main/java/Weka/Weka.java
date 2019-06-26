@@ -39,7 +39,7 @@ public class Weka {
 	public void createStruct(BoW bow) {
 		attributesToken = new FastVector();
 		attributesClasses = new FastVector();
-		
+
 		ArrayList<String> moreRelevantTerms = bow.getMoreRelevantTerms();
 		ArrayList<gramaticalClassList> classes = bow.getPermanentClasses();
 
@@ -126,7 +126,7 @@ public class Weka {
 	public void createTempStruct(BoW bow, String question, String clas, Storage storage) {
 		attributesToken = new FastVector();
 		attributesClasses = new FastVector();
-		
+		boolean falsiable = false;
 		ArrayList<String> moreRelevantTerms = bow.getMoreRelevantTerms();
 		ArrayList<String> questionNormalized = bow.getQuestionNormalized(storage, question, clas);
 		ArrayList<gramaticalClassList> classes = bow.getPermanentClasses();
@@ -140,6 +140,9 @@ public class Weka {
 		for (gramaticalClassList gramaticalClassList : classes) {
 			if (gramaticalClassList.getClassName().contentEquals("CLASSES") == false) {
 				attributesClasses.addElement(gramaticalClassList.getClassName());
+			}
+			if (gramaticalClassList.getClassName().contentEquals(clas)) {
+				falsiable = true;
 			}
 
 		}
@@ -176,7 +179,7 @@ public class Weka {
 			}
 		}
 
-		int index=0;
+		int index = 0;
 		for (String term : moreRelevantTerms) {
 			for (String questionPeace : questionNormalized) {
 				if (questionPeace.contentEquals(term)) {
@@ -184,23 +187,15 @@ public class Weka {
 				}
 			}
 		}
-		
-		// - nominal
-		boolean falsiable = false;
-		for (gramaticalClassList gc : classes) {
-			if(gc.getClassName().contentEquals(clas)) {
-				dataVector[dataVector.length - 1] = attributesClasses.indexOf(gc.getClassName());
-				falsiable = true;
-			}
-		}
-		
-		if(falsiable==true) {
+
+		if (falsiable == true) {
+			dataVector[dataVector.length - 1] = attributesClasses.indexOf(clas);
 			temp.add(new DenseInstance(1.0, dataVector));
-		}else {
+		} else {
 			System.err.println("não foi possivel encontrar esta classe nos nossos arquivos");
 			throw new EmptyStackException();
 		}
-		
+
 	}
 
 	public void test(String string) throws Exception {

@@ -21,8 +21,7 @@ public class App {
 		System.out.println("O que você deseja fazer agora?");
 		String input = "a";
 		while (input.contentEquals("1") == false && input.contentEquals("2") == false
-				&& input.contentEquals("3") == false && input.contentEquals("0") == false) {
-			System.out.println("0 - Sair");
+				&& input.contentEquals("3") == false) {
 			System.out.println("1 - Realizar os testes usando a GUI do Weka (encerrar o programa)");
 			System.out.println("2 - Realizar os testes automaticamente");
 			System.out.println("3 - Avaliar uma pergunta especifica");
@@ -45,6 +44,9 @@ public class App {
 			
 			System.out.println("digite a classe da pergunta");
 			String clas = scan.nextLine();
+			
+			System.out.println();
+			System.out.println("Iniciando normalização");
 			
 			weka.createTempStruct(bow, question, clas, storage);
 
