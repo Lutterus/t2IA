@@ -130,7 +130,7 @@ public class App {
 		bow.addRelevantTerms(rvTerms);
 		bow.cleanIrrelevantTerms();
 
-		int k = 30;
+		int k = 80;
 		bow.countTerms();
 		bow.setTerms(k);
 
